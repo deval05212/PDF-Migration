@@ -3,7 +3,7 @@ rg
 artist resume sample
 from resume genius
 resume objective
-artist with years of related work experience, as well as portfolio of varied accomplishments, including referenced articles, exhibitions, and academic achievements. possess a strong sense of artistry and forward-thinking that is consistently displayed across all art pieces.
+artist with years of related work experience, as well as portfolio of varied accomplishments, including referenced articles, exhibitions, and academic achievements. possess strong sense of artistry and forward-thinking that is consistently displayed across all art pieces.
 experience
 artist freelance
 self-employed, new york, ny / 2016-09 - present
@@ -12,7 +12,7 @@ create abstract sculptures to be displayed in local establishments produce styli
 collaborate with local museum to develop and fit art installations across outside area
 collections cataloguer
 mexic-arte museum, austin, tx / 2013-06 - 2016-08
-catalogued a total of 1,200 items according to different categories, completing project 30 days ahead of schedule
+catalogued total of 1,200 items according to different categories, completing project 30 days ahead of schedule
 analyzed database record and ensured integrity of bibliographic contents
 rewrote new descriptions for 30% of items that were outdated or had insufficient information
 exhibitions
@@ -24,8 +24,7 @@ john kempt gallery
 austin, tx / 2015-03
 contact
 email: youremail@gmail.com phone: 895 555 555 address: 4397 aaron smith drive harrisburg, pa 17101
-social
-f facebook.com/username
+social facebook.com/username
 instagram.com/username
 in linkedin.com/username
 twitter.com/username

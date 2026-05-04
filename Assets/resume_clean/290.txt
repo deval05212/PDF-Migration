@@ -4,9 +4,7 @@ profile
 1234 main st. somewher, aa 12345 apt #123
 john doe@state edu
 9998887777
-education n
-t
-j
+education
 senior high school 2012-05
 state university
 b. arch
@@ -27,7 +25,7 @@ construction
 experience
 06/14
 mountain biking coordinator
-led mountain biking trips for middle school aged kids for a dallas-based non-profit
+led mountain biking trips for middle school aged kids for dallas-based non-profit
 general labor
 concrete, framing, painting, carpentry experience
 hand graphics
@@ -45,6 +43,5 @@ eagle scout
 planned and implemented an inventory
 order of the arrow brotherhood member
 aias class rep.
-social committee
-2 terms americorps
+social committee terms americorps
 service

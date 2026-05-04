@@ -2,13 +2,12 @@
 mickael marinho
 graphic artist
 summary
-city, state 0000000000 email@email.com
-i have a passion for giving designs life and creating incredible user experiences. connecting beautifully aesthetic design with perfect functionality is a challenge - and that challenge is what drives my passion. there are so many variables to consider that each project is unique, and that inspires me to get better. the future is bright and there is a lot of great opportunities. for me, it has just begun and so i am looking forward to the biggest challenge both offline and online.
+city, state 0000000000 email@email.com have passion for giving designs life and creating incredible user experiences. connecting beautifully aesthetic design with perfect functionality is challenge - and that challenge is what drives my passion. there are so many variables to consider that each project is unique, and that inspires me to get better. the future is bright and there is lot of great opportunities. for me, it has just begun and so am looking forward to the biggest challenge both offline and online.
 work experience
 2d graphic artist
 kym abrams design
 2015-05 present
-working closely with programmers and game engineers to create a game that could help children learn english through a simple and fun gaming experience.
+working closely with programmers and game engineers to create game that could help children learn english through simple and fun gaming experience.
 work including designing characters, environments, and special effects as well as concept arts and final drawings that fit the gaming style.
 graphic artist
 studio sc

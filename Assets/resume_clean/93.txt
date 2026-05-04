@@ -5,18 +5,18 @@ info@qwikresume.com linkedin profile qwikresume.com
 the customer service representative is responsible for providing effective customer service for all internal and external customers by using excellent, in-depth knowledge of company products and programs as well as communicating effectively with team members within the customer service department.
 experience
 client service advocate
-it consulting and lifecycle services - 2014-12 - present advocate works with fortune 500 global enterprises and has experienced three-year sales growth of 55% and averages a 98% customer satisfaction rating.
-senior consultant responsible for the client relationship of consulting engagements for fortune 500 companies and leading a team of senior consultants senior architects, data scientists and analysts for the delivery of cloud solutions saas, paas, draas and ucaas, managed services, enterprise architecture strategy. technology and financial roadmaps, data center transformation, colocation, voice and data sourcing, and networking.
-achievement highlights data center ecosystem transformation developed data center consolidation plan and technology roadmap for a large national financial enterprise that resulted in an annual savings of over $5 million while adding redundancy for improved continuity across the spectrum of the compute infrastructure.
-network infrastructure redesign engaged to improve the reliability and reduce the cost of the network infrastructure of a luxury lifestyle brand enterprise.
+it consulting and lifecycle services - 2014-12 - present advocate works with fortune 500 global enterprises and has experienced three-year sales growth of 55% and averages 98% customer satisfaction rating.
+senior consultant responsible for the client relationship of consulting engagements for fortune 500 companies and leading team of senior consultants senior architects, data scientists and analysts for the delivery of cloud solutions saas, paas, draas and ucaas, managed services, enterprise architecture strategy. technology and financial roadmaps, data center transformation, colocation, voice and data sourcing, and networking.
+achievement highlights data center ecosystem transformation developed data center consolidation plan and technology roadmap for large national financial enterprise that resulted in an annual savings of over $5 million while adding redundancy for improved continuity across the spectrum of the compute infrastructure.
+network infrastructure redesign engaged to improve the reliability and reduce the cost of the network infrastructure of luxury lifestyle brand enterprise.
 .
-achieved 99.999% availability and a reduction of the tco by $1.8 million.
-cloud pbx implementation planning negotiated contracts to signature for a national chain of hotels with over 600 properties.
+achieved 99.999% availability and reduction of the tco by $1.8 million.
+cloud pbx implementation planning negotiated contracts to signature for national chain of hotels with over 600 properties.
 developed implementation plan and budget for replacing an existing, mixed infrastructure of outdated pbx solutions.
 advocate
 abc corporation - 2012-2014
 responsibilities worked with survivors of domestic violence and
-sexual assault in a shelter environment
+sexual assault in shelter environment
 maintained client records
 answered crisis call line
 participated in organization and execution of community awareness events

@@ -19,7 +19,7 @@ san francisco, ca
 emard-kling
 senior advocate
 hands on experience with mobile or web application development stacks,, at least one of android java or kotlin, flutter dart, vue.js, svelte
-experience building a developer community
+experience building developer community
 experience in contributing or building open source projects
 hands on experience with cloud back end platforms
 education
@@ -28,11 +28,11 @@ experience creating and editing high quality coding video tutorials
 experience writing technical blog posts, tutorials, and documentation
 knowledge of at least two major programming languages - ruby, c#, java, php, go, rust or node strong databases skills sql or nosql
 adjusters and/or brokers license
-multi-line brokerage or carrier claims experience with a heavy emphasis on 1st party property claims
+multi-line brokerage or carrier claims experience with heavy emphasis on 1st party property claims
 university of missouri-columbia
 bachelor's in psychology
 partner with clients on ongoing basis to help them understand their cloud spend and optimize it based on their unique needs
-thrives working within a high pace environment
+thrives working within high pace environment
 superior prioritization and organizational skills
 excellent communication skills and proven stakeholder management
 customer centric approach to problem resolution and proven results

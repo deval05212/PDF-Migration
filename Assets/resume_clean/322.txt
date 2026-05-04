@@ -5,14 +5,14 @@ contact details
 1234567899
 info@qwikresume.com www.qwikresume.com
 personal statement
-project architect for large retail, commercial and institutional projects; business development for major national and international design firms; owner/ceo for a multi-state, multi-million dollar computer consulting/sales firm, value added reseller and trainer for autodesk and archibus fm products.
+project architect for large retail, commercial and institutional projects; business development for major national and international design firms; owner/ceo for multi-state, multi-million dollar computer consulting/sales firm, value added reseller and trainer for autodesk and archibus fm products.
 work experience
 principal architect/
 abc corporation - 2010-11 - 2013-08
 responsibilities.
 contributed significant architectural recommendations for new project proposals.
-assisted development teams with architecture and design challenges. created a framework on top of legstar apis to simplify the processing of cobol copybook data files.
-presented nosql and mongodb at the jsg java specialist group meet. assisted in migrating asset persistency application to spring and jpa. created a framework to read and write flat files. ${job_description7}
+assisted development teams with architecture and design challenges. created framework on top of legstar apis to simplify the processing of cobol copybook data files.
+presented nosql and mongodb at the jsg java specialist group meet. assisted in migrating asset persistency application to spring and jpa. created framework to read and write flat files. ${job_description7}
 principal architect
 abc corporation 2006-2010
 responsibilities.
@@ -31,6 +31,6 @@ english native french professional spanish professional
 interests
 climbing snowboarding cooking reading
 references
-reference 1 company name
-reference - 2 company name
+reference company name
+reference - company name
 © this free resume template is the copyright of qwikresume.com. usage guidelines

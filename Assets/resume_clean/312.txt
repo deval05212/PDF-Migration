@@ -2,8 +2,7 @@
 richard jones
 architect
 info
-address
-9 wall st, new york, 10005,
+address wall st, new york, 10005,
 usa
 phone
 8905550401
@@ -24,12 +23,12 @@ analyst
 innovative
 problem-solving
 profile
-"a professional, creative and innovative architect with 10 years experience. i provide best-fit architectural solutions for projects a year with an average budget of $10 million. technology consultation, assisting in defining scope and sizing of work, support opportunity identification and pursuit processes are the essential parts of my role as an architect. i have professional communication skills to interact with all levels of management and clients".
+"a professional, creative and innovative architect with 10 years experience. provide best-fit architectural solutions for projects year with an average budget of $10 million. technology consultation, assisting in defining scope and sizing of work, support opportunity identification and pursuit processes are the essential parts of my role as an architect. have professional communication skills to interact with all levels of management and clients".
 employment history
 senior architect, equifax
 2014-02 present
 new york
-as an architect, i am a creative and innovative problem-solver. my primary focus is to realize the vision or our clients.
+as an architect, am creative and innovative problem-solver. my primary focus is to realize the vision or our clients.
 assist the client with review and approval of contractor's submittals
 apply knowledge of relevant international regulations regarding the design of projects
 perform operational support and analysis for an assigned area
@@ -48,4 +47,4 @@ architect, planate management group
 new york
 hobbies
 reading, walking, cooking
-under the supervision of the senior architect, i created and implemented 20 innovative high-quality solutions per year. i led and participated in sales projects per month projects with a budget of up to $2 million and met potential clients a month.
+under the supervision of the senior architect, created and implemented 20 innovative high-quality solutions per year. led and participated in sales projects per month projects with budget of up to $2 million and met potential clients month.

@@ -10,7 +10,7 @@ san francisco, ca
 put in place and document the graphic production pipeline modeling, animation, characters, lighting, sfx, etc.. and assure the follow up
 driving the optimization and debugging to fix the issues raised in his field of expertise
 create, organize, and lead training sessions so that all members of the modeling team can properly use the tools and methods
-coordinate and act as a contact between the modeling team and the programming team
+coordinate and act as contact between the modeling team and the programming team
 develop or find the best tools and methods possible for improving and facilitating the work of the artists
 coordinate and act as an intermediary between his/her graphic team and the tool programming team
 the technical art director has four main focuses during production, which are highly inter-dependent
@@ -21,7 +21,7 @@ partner with project management to maintain scope of work and mitigate deadlines
 develop vision and approach for assigned work
 manage onsite and remote contractors and managed teams
 design and lead brand development projects and targeted communications
-lead brainstorms in a team environment to develop creative concepts
+lead brainstorms in team environment to develop creative concepts
 provide leadership, design and strategic creative solutions
 provide pre-press supervision of photography to ensure color fidelity, and proper retouching and typographic placement throughout the proofing stages
 art manager
@@ -31,7 +31,7 @@ develops staff through coaching and training opportunities and by providing regu
 stay abreast of competitive landscape to maximize design effectiveness of keurig green mountain brands. understand performance data and research to identify and recommend design solutions
 supervise staff and work with the senior art manager and team leads to provide work direction, performance reviews, and coaching
 help create and manage department schedule and insure proper workflow through the department
-develops a common vision, sets clear objectives, facilitates teamwork, recognizes outstanding performance and maintains open communication
+develops common vision, sets clear objectives, facilitates teamwork, recognizes outstanding performance and maintains open communication
 work closely with the other art directors to ensure clear and consistent communication of brand visions and methods of execution, as well as to maintain continuity of design
 develop paths for artists' career development and conduct performance reviews for the team
 colorado state university
@@ -43,5 +43,5 @@ strong technical skills and ability to write technical documentations
 good communication skills spoken and written
 extensive knowledge of video game engines and platforms
 extensive knowledge of 2d and 3d computer graphics software
-ability to work as part of a team
+ability to work as part of team
 knowledge and interest in the following tech-art areas

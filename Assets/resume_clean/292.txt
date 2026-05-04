@@ -1,7 +1,7 @@
 ﻿
 richard jones
 architect
-newyork, 10005, usa 8905550401 details 9 wall st, new york, 10005, usa 8905550401 example@email.com
+newyork, 10005, usa 8905550401 details wall st, new york, 10005, usa 8905550401 example@email.com
 date/place of birth 1989/20/03
 new york
 nationality
@@ -14,11 +14,11 @@ attention to detail
 analyst innovative
 problem-solving
 profile
-"a professional, creative and innovative architect with 10 years experience. i provide best-fit architectural solutions for projects a year with an average budget of $10 million. technology consultation, assisting in defining scope and sizing of work, support opportunity identification and pursuit processes are the essential parts of my role as an architect. i have professional communication skills to interact with all levels of management and clients".
+"a professional, creative and innovative architect with 10 years experience. provide best-fit architectural solutions for projects year with an average budget of $10 million. technology consultation, assisting in defining scope and sizing of work, support opportunity identification and pursuit processes are the essential parts of my role as an architect. have professional communication skills to interact with all levels of management and clients".
 employment history
 senior architect at equifax, new york
 2014-02 - present
-as an architect, i am a creative and innovative problem-solver. my primary focus is to realize the vision or our clients.
+as an architect, am creative and innovative problem-solver. my primary focus is to realize the vision or our clients.
 assist the client with review and approval of contractor's submittals
 apply knowledge of relevant international regulations regarding the design of projects perform operational support and analysis for an assigned area
 participate in the development of specifications, policies, and procedures for the assigned
@@ -33,7 +33,7 @@ seek new work by marketing and giving presentations hobbies reading, walking, co
 prepares and provide high-level briefs to senior leadership
 architect at planate management group, new york
 2009-04 - 2014-02
-under the supervision of the senior architect, i created and implemented 20 innovative high- quality solutions per year. i led and participated in sales projects per month projects with a budget of up to $2 million and met potential clients a month.
+under the supervision of the senior architect, created and implemented 20 innovative high- quality solutions per year. led and participated in sales projects per month projects with budget of up to $2 million and met potential clients month.
 provide technical review and oversight of the design-build process for new projects
 ensure that designs are within federal and local codes concerning health, safety, and environment of real property facilities
 study and recommends equipment and design solutions for various projects

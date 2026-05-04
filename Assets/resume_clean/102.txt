@@ -13,7 +13,7 @@ provides expertise and customer service support to members, customers, and/or pr
 follow the "golden rules" of call queue management, quality call management and quality email communication
 education on disease management programs and healthy living programs personalized to the customer's medical condition or health improvement goals
 demonstrates/models the network's service excellence standards of performance in interactions with all customers internal and external
-works to research and resolve problems in a timely manner while maintaining productivity standards and performance
+works to research and resolve problems in timely manner while maintaining productivity standards and performance
 developer advocate
 boston, ma
 07/2011-03/2016
@@ -22,7 +22,7 @@ conducting deep dive analysis of and provide routine reporting on inbound contac
 promote agile software development practices including scrum, extreme programming xp, paired programming or test driven development tdd
 conducting deep dive analysis of and provide weekly business reporting on inbound contact activity across developers, identifying patterns and trends
 conduct deep dive analysis of and provide weekly business reporting on inbound contact activity across developers, identifying patterns and trends
-actively participating in open source projects and being a member of the open source community
+actively participating in open source projects and being member of the open source community
 client advocate
 san francisco, ca
 10/2008 - 05/2011
@@ -39,7 +39,7 @@ detailed knowledge of, and experience in, health plan claim processing and custo
 strong organizational and ability to prioritize tasks and meet deadlines
 valid certificate of good conduct
 familiar with various types of medical plans and knowledge of client plan provisions
-acts as a knowledge resource for all items related to participant claims and/or access-to-care issues
+acts as knowledge resource for all items related to participant claims and/or access-to-care issues
 strong writing and verbal skills
 computer literate with proficiency in ms word, outlook and excel
 identifies trends and is able to provide client-ready trend analysis

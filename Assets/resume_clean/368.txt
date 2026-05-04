@@ -13,16 +13,15 @@ leezal
 http://www.lee-3d.com
 -
 http://www.linkedin.com/in/leemeza
-professional profile
-i was hired directly out of school into aaa blockbuster uncharted 3. my second and third jobs out of school were both lead technical artist positions. i was fortunate to hit the ground running and i have not stopped since. in just over three years in the industry, i have shipped six titles. two that are ps4 launch titles. i have been driven by my passion for video games since i was a child. i have been recognized for demonstrating my strength in teamwork and having strength in creative thinking "outside-the-box" problem solving skills. i am a unique blend of creativity and logic, which is ideal for a technical artist handling a variety of tasks from scripting to rigging, to asset development, to dynamic visual effects and designing tools to streamline or set up a solid pipeline.
+professional profile was hired directly out of school into aaa blockbuster uncharted 3. my second and third jobs out of school were both lead technical artist positions. was fortunate to hit the ground running and have not stopped since. in just over three years in the industry, have shipped six titles. two that are ps4 launch titles. have been driven by my passion for video games since was child. have been recognized for demonstrating my strength in teamwork and having strength in creative thinking "outside-the-box" problem solving skills. am unique blend of creativity and logic, which is ideal for technical artist handling variety of tasks from scripting to rigging, to asset development, to dynamic visual effects and designing tools to streamline or set up solid pipeline.
 skills:
 scripting/programming kismet, flowgraph
 mel
 unreal script
-game engines unreal tournament 3 unreal developer kit unity
+game engines unreal tournament unreal developer kit unity
 c++, c#
 visual basic
-elder scrolls creation kit cryengine 3
+elder scrolls creation kit cryengine
 lua
 proprietary engines
 python
@@ -49,7 +48,7 @@ blackfoot blade
 juggernaut games
 lead technical artist
 2012 san diego, ca
-sole tech artist for a small studio creating content for playstation home. duties include rigging, creating lod meshes, particle effects, and scripting lua for game scripts and mel for pipeline tools.
+sole tech artist for small studio creating content for playstation home. duties include rigging, creating lod meshes, particle effects, and scripting lua for game scripts and mel for pipeline tools.
 titles credited on:
 -
 minibots: training facility ps home game
@@ -59,15 +58,15 @@ jr. technical artist 3mo contract
 san diego, ca
 prepared scenes for animators, ensured scenes met technical and quality specifications both going to and coming from the animation team, resolved unexpected issues that arose with rigs, props, and scripts, ensured that scenes progressed smoothly through the pipeline and ensured the quality of the end product.
 titles credited on:
-- uncharted 3
+- uncharted
 freelance digital art
 freelancer
-personal projects undertaken as a freelance digital artist.
+personal projects undertaken as freelance digital artist.
 projects:
-- cg effects for a multiple film festival winning short film
+- cg effects for multiple film festival winning short film
 - product pre-visualization renderings built from plans and cad drawings for use in catalogs.
 - short 3d cinematic animation for awareness campaign
-- designed, modeled, and animated a 3d logo to for a catering company
+- designed, modeled, and animated 3d logo to for catering company
 education
 bachelor of science degree, game art and design
 the art institute of california, san diego

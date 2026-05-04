@@ -3,7 +3,7 @@ resume companion
 sample
 agriculture resume sample
 1010 south street, new york, ny 100032122045645 john.doe@gmail.com
-farm marketer with over 10 years of experience in swine production, business-to-business sales experience and a customer service focus. possesses a b.a. in agriculture management and a high level of professionalism.
+farm marketer with over 10 years of experience in swine production, business-to-business sales experience and customer service focus. possesses b.a. in agriculture management and high level of professionalism.
 professional experience
 farrow farms
 farm marketer
@@ -20,7 +20,7 @@ plan and direct all production phases on the farm and implement processes as req
 actively communicate with the service manager and veterinarians regarding the health of the herd
 ensure strict compliance to all bio-security protocols and take action as necessary
 order feed, supplies, and equipment for the farm, herd, and employees
-produce well written production reports in a timely manner
+produce well written production reports in timely manner
 education
 cowell university
 bachelor of arts in agriculture management candidate, 1995-06

@@ -94,6 +94,9 @@ def clean_text(text: str, lowercase: bool = False) -> str:
     text = "\n".join(line.strip() for line in text.splitlines() if line.strip())
     
     # 10. Final Cleanup
+    # Remove single alphanumeric characters (like grades A, B, C, D, 8) at the end of lines or between spaces
+    text = re.sub(r"\s+\b[A-Za-z0-9]\b(?=\s|$)", "", text)
+    
     # Remove single digits not followed by a capitalized word
     text = re.sub(r"\s\d\s+(?![A-Z])", " ", text)
     # Remove trailing single character noise

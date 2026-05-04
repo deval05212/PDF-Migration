@@ -1,7 +1,7 @@
 ﻿
 artist sample resume
 220 broome street, new york, ny 100132126842473 john.doe@gmail.com portfolio: www.johnart.com
-artist with years of related work experience, as well as portfolio of varied accomplishments including referenced articles, exhibitions, and academic achievements. possess a strong sense of artistry and forward-thinking, that is consistently displayed across all art pieces. capable of communicating with clients regarding specifications for customized art pieces. for more information please check my portfolio at www.johnart.com
+artist with years of related work experience, as well as portfolio of varied accomplishments including referenced articles, exhibitions, and academic achievements. possess strong sense of artistry and forward-thinking, that is consistently displayed across all art pieces. capable of communicating with clients regarding specifications for customized art pieces. for more information please check my portfolio at www.johnart.com
 education
 master of fine arts in industrial art
 academy of art university 2014-05
@@ -23,7 +23,7 @@ mexic-arte museum
 collections cataloguer
 austin, tx
 2012-08 - 2013-05
-catalogued a total of 1,200 items according to different categories, completing project 30 days ahead of schedule
+catalogued total of 1,200 items according to different categories, completing project 30 days ahead of schedule
 analyzed database record and ensured integrity of bibliographic contents
 re-wrote new descriptions for 30% of items that were outdated or had insufficient information
 bibliography

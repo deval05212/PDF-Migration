@@ -1,6 +1,5 @@
 ﻿
-stanley sharp
-1 main street, new cityland, ca 91010 c: 5553227337 example-email@example.com
+stanley sharp main street, new cityland, ca 91010 c: 5553227337 example-email@example.com
 summary
 skilled retail parts pro with expertise in developing and leading successful sales teams. equipped with solid track record of success in customer-facing automotive roles. organized and proficient manager able to analyze and resolve problems, implement process improvements, and motivate high-performing associates. currently pursuing fleet safety certification.
 revenue generation
@@ -36,7 +35,7 @@ effectively managed store inventory and kept optimal supply levels.
 retail parts pro
 o'neil auto parts
 stocked shelves with latest merchandise and tagged correctly.
-maintained front desk area in a clean and neat fashion.
+maintained front desk area in clean and neat fashion.
 swept and mopped sales floor and removed debris.
 helped customers locate desired merchandise.
 answered vehicle questions and recommended products.

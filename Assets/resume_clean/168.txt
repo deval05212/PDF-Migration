@@ -4,7 +4,7 @@ john doe
 agriculture engineer sydney, au
 +615632232300
 agriculture_engineer@example.com
-innovative agricultural engineer with a proven track record of identifying issues and achieving solutions to increase agricultural productivity. adept in communicating with land owners and businesses regarding appropriate land treatment, soil conditions, and water quality. experienced in repairing and improving crop facilities, and committed to achieving the highest level of client satisfaction possible.
+innovative agricultural engineer with proven track record of identifying issues and achieving solutions to increase agricultural productivity. adept in communicating with land owners and businesses regarding appropriate land treatment, soil conditions, and water quality. experienced in repairing and improving crop facilities, and committed to achieving the highest level of client satisfaction possible.
 key skills
 critical thinking skills
 engineering strategies
@@ -16,7 +16,7 @@ professional experience
 agricultural engineer
 halstead engineers wittgensdorf, um
 2016-09 2019-06
-effectively tested a variety of mechanical and electrical systems on agricultural and construction equipment.
+effectively tested variety of mechanical and electrical systems on agricultural and construction equipment.
 applied troubleshooting techniques where necessary.
 documented and communicated test results.
 worked independently and also alongside engineers.

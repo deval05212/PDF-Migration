@@ -38,6 +38,6 @@ english native french professional spanish professional
 interests
 climbing snowboarding cooking reading
 references
-reference 1 company
+reference company
 name
-reference 2 company name
+reference company name

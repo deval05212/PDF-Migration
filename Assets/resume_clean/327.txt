@@ -1,6 +1,5 @@
 ﻿
-minnie
-j blohm
+minnie blohm
 portal architect
 2086449505
 175 science center drive jerome, id 83338
@@ -10,7 +9,7 @@ proficienc
 research
 management
 job objective
-to obtain a portal architect position that enables me to make a positive contribution to the company by utilizing my skills to their fullest potential.
+to obtain portal architect position that enables me to make positive contribution to the company by utilizing my skills to their fullest potential.
 technical
 leadership
 planning
@@ -31,5 +30,5 @@ remarkable ability to set scope, complete assigned tasks, and deliver quality re
 outstanding ability to transform customer requirements into application designs.
 amazing ability to manage all facets of the system
 development life cycle sdlc.
-uncommon ability to work in a team environment, effectively interacting with others.
+uncommon ability to work in team environment, effectively interacting with others.
 template net

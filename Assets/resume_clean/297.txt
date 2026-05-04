@@ -2,12 +2,11 @@
 richard jones
 architect
 info
-address
-9 wall st, new york, 10005, usa
+address wall st, new york, 10005, usa
 phone
 8905550401
 profile
-"a professional, creative and innovative architect with 10 years experience. i provide best-fit architectural solutions for projects a year with an average budget of $10 million. technology consultation, assisting in defining scope and sizing of work, support opportunity identification and pursuit processes are the essential parts of my role as an architect. i have professional communication skills to interact with all levels of management and clients".
+"a professional, creative and innovative architect with 10 years experience. provide best-fit architectural solutions for projects year with an average budget of $10 million. technology consultation, assisting in defining scope and sizing of work, support opportunity identification and pursuit processes are the essential parts of my role as an architect. have professional communication skills to interact with all levels of management and clients".
 email
 example@email.com
 date/place of birth
@@ -18,7 +17,7 @@ employment history
 senior architect, equifax
 2014-02 - present
 new york
-as an architect, i am a creative and innovative problem-solver. my primary focus is to realize the vision or our clients.
+as an architect, am creative and innovative problem-solver. my primary focus is to realize the vision or our clients.
 nationality american
 links
 linkedin
@@ -47,7 +46,7 @@ reading, walking, cooking
 architect, planate management group
 2009-04 - 2014-02
 new york
-under the supervision of the senior architect, i created and implemented 20 innovative high-quality solutions per year. i led and participated in sales projects per month projects with a budget of up to $2 million and met potential clients a month.
+under the supervision of the senior architect, created and implemented 20 innovative high-quality solutions per year. led and participated in sales projects per month projects with budget of up to $2 million and met potential clients month.
 provide technical review and oversight of the design-build process for new projects ensure that designs are within federal and local codes concerning health, safety, and environment of real property facilities
 study and recommends equipment and design solutions for various projects
 oversee various stages of the construction process

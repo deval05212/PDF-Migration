@@ -5,7 +5,7 @@ phone 123 456 78 99
 email: info@qwikresume.com
 website: www.qwikresume.com linkedin: linkedin.com/qwikresume address: 1737 marshville road, alabama
 summary
-17+ years of experience as a senior accountant. looking to obtain a position which enables me to further enhance my skills in financial management and corporate audit policies and procedures while utilizing my technical knowledge of system functionality, stellar customer service, and interdepartmental collaborative skills in an effort to become a significant asset to the university. skills
+17+ years of experience as senior accountant. looking to obtain position which enables me to further enhance my skills in financial management and corporate audit policies and procedures while utilizing my technical knowledge of system functionality, stellar customer service, and interdepartmental collaborative skills in an effort to become significant asset to the university. skills
 project management financial analysis and reporting proficient in microsoft office excel, word, powerpoint, outlook, and onenote customer service clear communication, strong work ethic to aid in problem solving, strong knowledge of financial auditing, and account management.
 work experience
 senior accountant

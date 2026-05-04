@@ -20,8 +20,7 @@ b18 6nf
 t: 01216380026 m: 01216380026
 e: info@dayjob.com driving license: yes nationality: british
 maxine curry accountant
-personal summary
-a fully qualified accountant who has a number of years experience in the fields of financial management reporting, taxation and cash flow. maxine has the ability and willingness to take on financial leadership and is certain to be a key member of any financial team that she joins. she is ambitious by nature and keen to get to the top of her profession. one of her greatest strengths is her ability to prioritize workloads to meet challenging deadlines. on a personal level she has the ability to build relationships in a multi-cultural environment and across various offices. right now she wants to join a company who are keen to add an intelligent and enthusiastic individual to their finance department.
+personal summary fully qualified accountant who has number of years experience in the fields of financial management reporting, taxation and cash flow. maxine has the ability and willingness to take on financial leadership and is certain to be key member of any financial team that she joins. she is ambitious by nature and keen to get to the top of her profession. one of her greatest strengths is her ability to prioritize workloads to meet challenging deadlines. on personal level she has the ability to build relationships in multi-cultural environment and across various offices. right now she wants to join company who are keen to add an intelligent and enthusiastic individual to their finance department.
 work experience
 smiths accounts-birmingham
 accountant 2013-06-present
@@ -41,16 +40,15 @@ company name-location
 job title
 employment dates 1.e. 2011-08-2013-06
 key skills and competencies
-fully qualified through accreditation via a recognised accountancy body. ad-hoc financial modelling and analysis.
+fully qualified through accreditation via recognised accountancy body. ad-hoc financial modelling and analysis.
 conversant with financial software packages.
-achieving finance objectives by having a flexible but goal-orientated approach.
+achieving finance objectives by having flexible but goal-orientated approach.
 academic qualifications
 nuneaton university
 bsc hons
 accountant
-coventry central college
-a levels:
-maths a english b technology b science 2008-2011
+coventry central college levels:
+maths english technology science 2008-2011
 2005-2008
 references - available on request.
 day job.com

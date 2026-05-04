@@ -8,7 +8,6 @@ diligent accountant backed by public accounting, general ledger gl and tax exper
 strategic business partner delivering fiscally responsible strategies to resolve financial and accounting challenges, propel corporate growth and strengthen compliance.
 highly technical; experienced user of quickbooks, drake, microsoft dynamics gp, jd edwards enterpriseone, hyperion, sap, oracle, ibm cognos, visual basic, sql and excel.
 skills: corporate accounting general ledger gaap standards
-d
 financial reporting and analysis tax preparation financial statements audit reviews
 forecasting and projections
 financial research
@@ -27,6 +26,6 @@ implemented systems for expanded accounting, reporting and stock option transact
 helped businesses accelerate month-end close and payroll processing by up to 25% while reducing errors and increasing accuracy to new bests.
 assisted with sox compliance by ensuring on-time delivery of supporting documentation to auditors.
 led financial modeling and due diligence to evaluate proposed $5m acquisition for real estate development company. uncovered significant gl discrepancies, winning client praise for preventing unwise investment.
-previous experience: bookkeeper 2008 to 2011 at def company a plastics manufacturer in sometown, co and volunteer tax preparer through the irs vita program during college.
+previous experience: bookkeeper 2008 to 2011 at def company plastics manufacturer in sometown, co and volunteer tax preparer through the irs vita program during college.
 education
 xyz university sometown, co bachelor of science in accounting, minor in business

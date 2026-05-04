@@ -4,14 +4,14 @@ robert smith
 phone: 123 456 78 99 email: info@qwikresume.com website: www.qwikresume.com linkedin: linkedin.com/qwikresume address: 1737 marshville road,
 alabama
 objective
-seeking a challenging member advocate position with opportunities to learn new skills and hone current ones.
+seeking challenging member advocate position with opportunities to learn new skills and hone current ones.
 skills
 microsoft office, customer service, hospitality. people management.
 work experience
 member advocate iii
 abc corporation - 2012-08 - 2015-10
 worked inquiries via web and telephone helping customers understand their healthcare insurance benefits and claims.
-acted as a concierge assisting customers with transferring medical records, setting appointments, and locating providers.
+acted as concierge assisting customers with transferring medical records, setting appointments, and locating providers.
 prepared claim adjustments for services that were processed incorrectly.
 .
 recognized for outstanding customer service going above and beyond the normal customer service representative,
@@ -20,7 +20,7 @@ assisted with new trainees questions and concerns.
 used advanced level computer skills utilized daily.
 member advocate
 delta corporation - 2009 - 2012
-greeting members handling cash and coins having a good attitude always smiling handling checks following procedures depositing and withdrawing money.
+greeting members handling cash and coins having good attitude always smiling handling checks following procedures depositing and withdrawing money.
 investigated andamp; resolved member inquiries, complaints, andamp; grievances in customer service call center served as liaison between the population, 3.000.
 handled accounts for members and advised them of policy information.
 worked over the phone with members, doctors, specialist on getting the problem fixed.

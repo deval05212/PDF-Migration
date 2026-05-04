@@ -12,7 +12,7 @@ interface directly with support groups and internal customers such as engineerin
 develop detailed system and sub-system test procedures for functional, performance, and safety tests as related to telematics, precision farming, and guidance content based on engineering specifications
 develop detailed system test procedures for functional, performance, and safety tests as related to telematics and connectivity content based on engineering specifications
 aid design team in the development of telematics, connectivity, and web portal psandt software on harvesting machines
-act as a product validation representative embedded in the product engineering software development team for telematics and connectivity in psandt
+act as product validation representative embedded in the product engineering software development team for telematics and connectivity in psandt
 report back status of the telematics software development to the psandt product validation team
 agricultural guidance validation test engineer boston, ma
 11/2011- 10/2015

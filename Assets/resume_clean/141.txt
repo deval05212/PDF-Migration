@@ -7,7 +7,7 @@ experience
 o'kon group
 los angeles, ca // advocate // 11/2020 - present
 assist with balancing vault and atm as needed
-promote and support teamwork in the branch to ensure a positive overall customer experience
+promote and support teamwork in the branch to ensure positive overall customer experience
 adhere to operational controls, including legal, corporate, and regulatory procedures to ensure the safety and security of customer and bank assets
 maintain an awareness of current fraud alerts
 promote, cross sell, and assist customer with basic questions regarding bank products and services
@@ -16,8 +16,7 @@ haag llc
 los angeles, ca // advocate // 09/2013 - 08/2020
 deep experience in technologies and approaches used in managing user and system authentication and authorization for services and web applications hosted on linux and\or windows, including .net core identity and asp.net identity experience implementing single sign-on and multi-factor authentication scenarios
 experience in selecting the appropriate tool for the job based on business use cases
-strong knowledge and experience with software development, developer tools, and popular enterprise programming frameworks, .net and .net core in particular
-a history of successful speaking engagements and industry influence
+strong knowledge and experience with software development, developer tools, and popular enterprise programming frameworks, .net and .net core in particular history of successful speaking engagements and industry influence
 education
 baylor university
 bachelor's in education
@@ -26,5 +25,5 @@ preference to those with experience in claims adjusting
 minimum of 12 months of collections experience
 experience with computing azure,, kubernetes, etc.
 collection experience/working knowledge of multiple bac consumer products experience with ucrs
-proven success and experience in technical support, software development, and/or system administration for a large end-user community
+proven success and experience in technical support, software development, and/or system administration for large end-user community
 familiarity with itsm and/or devops project plan

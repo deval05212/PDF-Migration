@@ -7,8 +7,7 @@ experience
 education
 solutions architect
 certificate of
-herman llc
-i 2015 ongoing
+herman llc 2015 ongoing
 melbourne
 management
 created chef training regimen for current team and new hires, which saved $3,500/person.
@@ -20,19 +19,18 @@ gpa 4.0/4.0
 solutions architect
 harvey
 achievements 2013-2015 melbourne
-2
-harvey is a digital agency that creates web and mobile applications. serves clients as strategists, creatives, and engineers.
+harvey is digital agency that creates web and mobile applications. serves clients as strategists, creatives, and engineers.
 coordinated and jointly directed the person development team
-lead architect on a $9m services transformation for a government owned corporation
+lead architect on $9m services transformation for government owned corporation
 .
 implemented iso9001 quality assurance protocols
-delivered testing and software decommissioning projects as part of a £10m digital transformation programme
+delivered testing and software decommissioning projects as part of £10m digital transformation programme
 architected e-commerce 2.0 migration plan
 business transformation consultant/solutions architect
 crist
 2009-2011
 melbourne
-the crist is a business transformation consultancy, specialising in helping businesses get ahead of the curve and gain an extensive competitive advantage.
+the crist is business transformation consultancy, specialising in helping businesses get ahead of the curve and gain an extensive competitive advantage.
 achievements:
 architected e-commerce 2.0 migration plan
 .
@@ -40,7 +38,7 @@ achieved 300% to lot budget 2016
 supported sales to achieve 132% and 162% quota in 2017 and 2018
 expanded bi audience by an additional 200+ users by offering new insights and features to the business
 certification
-togaf 9.1 level 2 certified
+togaf 9.1 level certified
 the open group, license 105353
 itil v3 foundation certificate in it service management axelos global best practice, license 984820/1
 aws certified solutions architect - associate amazon web services, license aws-asa-18771
@@ -50,7 +48,7 @@ launched global products with revenue of $1b; more than 360 million subscribers 
 al is the new normal
 understand and evangelize al across product lines. conceived and architected conversational micro-app architecture; understand machine learning and al well.
 lot product design and development
-conceptualized and set business and technology direction for a massive lot initiative at tringapps - onquik - the platform competes with airwatch, openstack and other lot initiatives.
+conceptualized and set business and technology direction for massive lot initiative at tringapps - onquik - the platform competes with airwatch, openstack and other lot initiatives.
 technologies
 ip ran epc ims mss
 cloud rfc s-kpis

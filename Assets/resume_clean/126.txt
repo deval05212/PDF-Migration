@@ -5,20 +5,20 @@ phone 123 456 78 99
 email: info@qwikresume.com
 website: www.qwikresume.com linkedin: linkedin.com/qwikresume address: 1737 marshville road, alabama
 summary
-seeking gainful employment with a reputable organization in order to successfully complete apprenticeship and become a valued company employee. goal is to undertake tasks and assignments that will enable to learn all the skills on offer in order to become an effective employee. also to complete all job related studies in order to broaden experience and understanding about the company, products/services so that may provide excellent customer
+seeking gainful employment with reputable organization in order to successfully complete apprenticeship and become valued company employee. goal is to undertake tasks and assignments that will enable to learn all the skills on offer in order to become an effective employee. also to complete all job related studies in order to broaden experience and understanding about the company, products/services so that may provide excellent customer
 service.
 skills
 suggestive selling and consultative sales, superior.
 work experience
 patient care advocate
 abc corporation - 2014-05 - 2015-01
-worked to research and resolve problems in a timely manner.
+worked to research and resolve problems in timely manner.
 .
 .
 .
 assisted members in understanding and maximizing the use of their pharmacy distribution program.
 used computerized system to gather information and respond to questions.
-documented issues and resolutions in a common database.
+documented issues and resolutions in common database.
 handled inbound and outbound member, provider and physician calls.
 answered questions related to pharmacy benefits, while maintaining productivity standards and performance guarantees where applicable.
 ensured the privacy of members and maintain security of their information using hipaa policies.

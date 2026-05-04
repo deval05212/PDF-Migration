@@ -24,8 +24,7 @@ m: 08872229999 e: gary.w@dayjob.co.uk
 dob: 12/09/1985 driving license: yes nationality: british
 gary white
 assistant accountant
-personal summary
-a confident, multi-skilled and capable assistant accountant with excellent knowledge of finance and accounting procedures. exceptional analytical and problem solving skills and able to provide financial information to all areas of the business whilst ensuring that all management information is accurate. having a proven ability to drive out inefficiencies through process improvement as well as assist in the maintenance and development of financial systems and accounting procedures. now looking for a new and challenging accountancy position, one which will make best use of my existing skills and experience and also further my development.
+personal summary confident, multi-skilled and capable assistant accountant with excellent knowledge of finance and accounting procedures. exceptional analytical and problem solving skills and able to provide financial information to all areas of the business whilst ensuring that all management information is accurate. having proven ability to drive out inefficiencies through process improvement as well as assist in the maintenance and development of financial systems and accounting procedures. now looking for new and challenging accountancy position, one which will make best use of my existing skills and experience and also further my development.
 work experience
 construction company - coventry assistant accountant
 2008-06 - present
@@ -47,7 +46,6 @@ knowledge of accounts payable and receivable processes and procedures. experienc
 academic qualifications
 ba hons
 accounting and finance
-nuneaton university 2005-2008
-a levels:
-maths a english b technology b science coventry central college 2003-2005
+nuneaton university 2005-2008 levels:
+maths english technology science coventry central college 2003-2005
 references - available on request.

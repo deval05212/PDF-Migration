@@ -28,5 +28,5 @@ skills
 preferred knowledge of domestic violence and the empowerment of individuals
 proficient in microsoft word, excel, powerpoint and general data processing programs
 direct services, advocacy, and crisis intervention experience
-familiarity with microsoft office products and client tracking data systems experience managing a service request queue and assisting customers with online and phone correspondence
+familiarity with microsoft office products and client tracking data systems experience managing service request queue and assisting customers with online and phone correspondence
 working knowledge of server, data center, and cloud deployment options and the high-level differences of each

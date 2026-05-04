@@ -5,8 +5,7 @@ phone: 123 456 78 99 email: info@qwikresume.com website: www.qwikresume.com
 linkedin:
 linkedin.com/qwikresume
 address: 1737 marshville road, alabama.
-objective
-i teach yoga to help empower my students, so they may learn to appreciate their bodies. i encourage self-love in order to grow and mature both mentally and physically. i use yoga to guide all of my students to a peace of mind by fostering a space of acceptance to just be.
+objective teach yoga to help empower my students, so they may learn to appreciate their bodies. encourage self-love in order to grow and mature both mentally and physically. use yoga to guide all of my students to peace of mind by fostering space of acceptance to just be.
 skills
 basecamp project management, harvest time tracking software, at task project management, allscripts practice management, strata call manager, mikal, microsoft office, and quickbooks. work experience
 human resource advocate
@@ -22,7 +21,7 @@ advocate for funding and services by making connections and providing outreach p
 support operation efforts, including compliance with regulations, and representing the agency at various public events.
 advocate
 abc corporation - 2014-2015
-huntsville, texas assume responsibility for students with autism and severe communication delays for kindergarten through 4th grade in a self-contained, structured classroom
+huntsville, texas assume responsibility for students with autism and severe communication delays for kindergarten through 4th grade in self-contained, structured classroom
 supervise one instructional assistant
 advocate for each students need
 provide academic accommodations and modifications as well as teach social and functional skills

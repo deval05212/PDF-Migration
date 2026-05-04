@@ -6,7 +6,7 @@ contact details
 1234567899
 info@qwikresume.com www.qwikresume.com
 personal statement
-dedicated accountant with over 10 years of experience and proficiencies in account management, flow, reporting, and across many business areas. business experience in financial analysis and management. attention to detail in client management, evaluating economic and business trends, completion of financial details, and organizational skills. results oriented leader with process management skills to complete tasks within budget and on time. adept at financial review, research, and analysis in a fast paced environment.
+dedicated accountant with over 10 years of experience and proficiencies in account management, flow, reporting, and across many business areas. business experience in financial analysis and management. attention to detail in client management, evaluating economic and business trends, completion of financial details, and organizational skills. results oriented leader with process management skills to complete tasks within budget and on time. adept at financial review, research, and analysis in fast paced environment.
 work experience
 senior accountant
 abc corporation - 2011-01 - present
@@ -22,7 +22,7 @@ accountant
 abc corporation 2007-07 2010-12
 responsibilities:
 reviewed, analyzed, processed and maintained accounting and financial transactions and records to ensure operational quality and efficiency measures are achieved.
-performed a variety of accounting functions that supported organization-wide operations and maintained the accuracy of general and expenditure ledgers and financial systems.
+performed variety of accounting functions that supported organization-wide operations and maintained the accuracy of general and expenditure ledgers and financial systems.
 accomplished daily and monthly receiving of bank deposits and subsequent cash and billing adjustments to corresponding accounts. assisted with invoicing, processing payments and resolving collection issues.
 © this free resume template is the copyright of qwikresume.com. usage guidelines
 skills
@@ -31,6 +31,6 @@ languages
 english native french professional spanish professional
 interests climbing snowboarding cooking reading
 references
-reference - 1 company name
-reference - 2 company
+reference - company name
+reference - company
 name

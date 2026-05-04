@@ -2,14 +2,14 @@
 sample resume companion
 architect resume example
 1010 south street, new york, ny 100032122045645 john.doc@gmail.com
-architect with over 10 years of experience selecting building materials and performing building code analysis. possesses a b.s. in architecture and autocad knowledge.
+architect with over 10 years of experience selecting building materials and performing building code analysis. possesses b.s. in architecture and autocad knowledge.
 professional experience
 chowballo company
 architect
 boston, ma
 1998-09-present
 provide oversight for construction activities conducted by construction contractors, contracts totaling $1.1b assist in developing construction and maintenance and repair requirements, specifications, and plans to address health care facility improvement needs
-serve as a contracting officer's technical representative on assigned projects
+serve as contracting officer's technical representative on assigned projects
 inspect construction, maintenance and repair projects to ensure compliance with contact plans and specifications
 write scopes of work and technical descriptions of work to be accomplished for architect/engineering a/e
 contracts
@@ -26,7 +26,7 @@ education
 cowell university
 bachelor of science in architecture naab candidate, 1995-06
 gpa 3.2
-designed a new school blueprint for darfur refugees
+designed new school blueprint for darfur refugees
 additional skills
 chicago, il
 proficiency in autocad, revit, sketch-up, photoshop, and using microsoft software tools such as ms word, outlook, and excel

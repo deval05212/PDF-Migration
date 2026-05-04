@@ -3,7 +3,7 @@ robert smith
 sr. member advocate
 phone: 0123-456-789 email: info@qwikresume.com website: qwikresume.com
 summary
-to obtain a position where skills and experience can be effectively utilized as well as challenged by new learning opportunities that are available.
+to obtain position where skills and experience can be effectively utilized as well as challenged by new learning opportunities that are available.
 core competencies
 microsoft office, management.
 professional experience
@@ -11,9 +11,9 @@ sr. member advocate
 amerigroup- anthem - 2006 - 2020
 key deliverables:
 served as an advocate for the member and liaison between the health plan and providers to ensure availability and access to care,
-established a community presence, promote member education, identify and resolve any systemic barriers that limit members access to appropriate care.
+established community presence, promote member education, identify and resolve any systemic barriers that limit members access to appropriate care.
 researched claims, authorizations and referrals for plan members to ensure correct claim payments and physician approvals.
-resolved plan members and providers escalated complaints in a timely manner to help regain confidence in company services.
+resolved plan members and providers escalated complaints in timely manner to help regain confidence in company services.
 coordinated the delivery of member handbooks, provider directories, and any other educational material to plan members as necessary.
 performed business analysis for medicare application processing in salesforce.
 analyzed, track and reported data from daily submissions between enrollment and efficiency reports for accuracy of compensation and any discrepancies of applications for the accuracy of final compensation of eligibility.

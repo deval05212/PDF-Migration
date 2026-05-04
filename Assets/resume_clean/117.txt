@@ -4,10 +4,8 @@ patient benefit advocate
 summary
 phone 123 456 78 99
 email: info@qwikresume.com
-website: www.qwikresume.com linkedin: linkedin.com/qwikresume address: 1737 marshville road, alabama
-i love to work in fast/slow pace were i can multitask and help people whether as a team or individual i have always been a great team player,fun, friendly, well organized and i make sure every customer is satisfied.
-skills
-i am very good with computers, i also have supervisor experience and i am very good at doing employee schedules.
+website: www.qwikresume.com linkedin: linkedin.com/qwikresume address: 1737 marshville road, alabama love to work in fast/slow pace were can multitask and help people whether as team or individual have always been great team player,fun, friendly, well organized and make sure every customer is satisfied.
+skills am very good with computers, also have supervisor experience and am very good at doing employee schedules.
 work experience
 patient benefit advocate
 abc corporation - 2012-08 2013-11

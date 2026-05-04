@@ -5,19 +5,19 @@ phone 123 456 78 99
 email: info@qwikresume.com
 website: www.qwikresume.com linkedin: linkedin.com/qwikresume address: 1737 marshville road, alabama
 summary
-self-motivated professional seeking a challenging position where i can utilize my strong personal skills and abilities. i have over 20+ years experience in customer service and in the social service field.
+self-motivated professional seeking challenging position where can utilize my strong personal skills and abilities. have over 20+ years experience in customer service and in the social service field.
 skills
 currently enrolled at uma for medical billing and coding.
 work experience
 client advocate/advisor
 abc corporation - 2006-05 2013-10
 handle customer service inquiries from members, providers, physicians and internal and external clients related to pharmacy benefits.
-work to research and resolve problems in a timely manner.
+work to research and resolve problems in timely manner.
 .
 .
 assist members in understanding and maximizing the use of their pharmacy distribution program.
 use computerized system to gather information and respond to questions,
-document issues and resolutions in a common database.
+document issues and resolutions in common database.
 handle inbound and outbound member, provider and physician calls.
 answer questions related to pharmacy benefits, while maintaining productivity standards and performance guarantees where appplicable maintain accurate and complete documentation of all inquiries in order to continuously improve the customer service process and reduce potential legal concerns.
 client advocate

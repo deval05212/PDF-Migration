@@ -24,7 +24,7 @@ agricultural engineer
 -
 execute the development of new air vehicles, from initial concept through deployment.
 "
-act as a resource and subject matter expert for aircraft engineering teams
+act as resource and subject matter expert for aircraft engineering teams
 jan. 2019 jun. 2022
 develop air vehicle conops, conceptual designs, and configuration layouts by balancing performance implications from different subsystems aero, structures, propulsion, avionics, and payloads
 execute aircraft, airframe and subsystem detailed design and fabrication as required.

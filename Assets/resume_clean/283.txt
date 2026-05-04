@@ -2,8 +2,7 @@
 richard jones
 architect
 address
-email
-9 wall st, new york, 10005, usa example@email.com
+email wall st, new york, 10005, usa example@email.com
 phone
 8905550401
 date/place of
@@ -15,12 +14,12 @@ american linkedin
 driving license
 full
 profile
-"a professional, creative and innovative architect with 10 years experience. i provide best-fit architectural solutions for projects a year with an average budget of $10 million. technology consultation, assisting in defining scope and sizing of work, support opportunity identification and pursuit processes are the essential parts of my role as an architect. i have professional communication skills to interact with all levels of management and clients".
+"a professional, creative and innovative architect with 10 years experience. provide best-fit architectural solutions for projects year with an average budget of $10 million. technology consultation, assisting in defining scope and sizing of work, support opportunity identification and pursuit processes are the essential parts of my role as an architect. have professional communication skills to interact with all levels of management and clients".
 employment history
 2014-02 - present
 new york
 senior architect equifax
-as an architect, i am a creative and innovative problem-solver. my primary focus is to realize the vision or our clients.
+as an architect, am creative and innovative problem-solver. my primary focus is to realize the vision or our clients.
 assist the client with review and approval of contractor's submittals
 apply knowledge of relevant international regulations regarding the design of projects
 perform operational support and analysis for an assigned area
@@ -38,4 +37,4 @@ prepares and provide high-level briefs to senior leadership
 new york
 architect
 planate management group
-under the supervision of the senior architect, i created and implemented 20 innovative high-
+under the supervision of the senior architect, created and implemented 20 innovative high-

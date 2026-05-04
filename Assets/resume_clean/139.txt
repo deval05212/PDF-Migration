@@ -8,14 +8,14 @@ streich inc
 new york, ny
 10/2019 - present
 advocate
-provides consultation to individuals with a variety of presenting issues including emotional, lifestyle management and work life concerns including but not limited to elder care, child care, financial and legal resource
+provides consultation to individuals with variety of presenting issues including emotional, lifestyle management and work life concerns including but not limited to elder care, child care, financial and legal resource
 assists members with linkage to resources and/or advises members how to access and choose services to aid in the alleviation of stressors
 interacts with providers as appropriate to schedule appointments and discuss concerns regarding specific cases prepares member fulfillment related to relevant materials, including provider profiles, letters, selection of appropriate guidebooks, collating materials for mailing, documenting fulfillment completion in the appropriate eap system, maintaining an inventory of materials
 mclaughlin and sons
 new york, ny
 07/2016-04/2019
 advocate
-quick learner with a passion for technology and the public cloud, particularly key trends such as containerization, database, security, artificial intelligence and machine learning, enterprise migration, hybrid cloud including edge computing deploy, test, and provide feedback on cloud services
+quick learner with passion for technology and the public cloud, particularly key trends such as containerization, database, security, artificial intelligence and machine learning, enterprise migration, hybrid cloud including edge computing deploy, test, and provide feedback on cloud services
 excellent verbal and written communication skills ideally with experience creating developer documentation, guides, and training materials for cloud services and experience speaking at conferences, meetups, and/or customer events to advocate for technologies powering cloud services
 experience using cloud such as aws, gcp, azure, alibaba, using cloud services paas and/or containers that create solutions to solve end-user problems
 education

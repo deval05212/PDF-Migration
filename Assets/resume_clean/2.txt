@@ -8,7 +8,7 @@ work experience
 company name
 accountant - location
 summary
-howard is considered an expert at managing a company's finances and looking after its accounts. he is able to perform mathematical calculations with speed as well as accuracy and can be relied upon to provide accurate and trustworthy information about financial transactions. he is confident in his ability to play a strategic role in any business.
+howard is considered an expert at managing company's finances and looking after its accounts. he is able to perform mathematical calculations with speed as well as accuracy and can be relied upon to provide accurate and trustworthy information about financial transactions. he is confident in his ability to play strategic role in any business.
 education
 university
 course details
@@ -25,7 +25,7 @@ accountant - location
 maintaining the quality of financial controls. organising and co-ordinating the work of junior accounting personnel. locating errors in accounting records.
 assisting colleagues in other departments with preparation of the annual budget.
 implementing departmental accounting policies, procedures and processes. using financial tools and techniques to evaluate business opportunities.
-presenting accounting data in a clear and understandable manner.
+presenting accounting data in clear and understandable manner.
 company name
 accountant-location
 2014-2015
@@ -47,9 +47,9 @@ school
 skills
 course details
 accounts
-english a
-maths 8
-physics geography d
+english
+maths
+physics geography
 ms word
 reports
 supervising
