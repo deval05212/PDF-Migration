@@ -1,26 +1,26 @@
 ﻿
-EDUCATION:
-2000 - Present M.S. Candidate, Statistics, Texas AandM University, College Station, Texas.
+education:
+2000 - present m.s. candidate, statistics, texas aandm university, college station, texas.
 1999
 1996
-EXPERIENCE:
-2004 - Present
+experience:
+2004 - present
 1999 - 2004
 1996-1999
-Expected graduation: 2005-08.
-M.S. Agricultural Economics, Texas AandM University, College Station, Texas. Thesis: "Farm Level Technology Assessment in Sub-Saharan Africa: A Case Study in Mali." B.S. Agricultural Economics, Texas AandM University, College Station, Texas.
-Texas Agricultural Experiment Station Research Associate, Department of Agricultural Economics, Texas AandM University, College Station, Texas.
-Texas Cooperative Extension Associate-Risk Management, Department of Agricultural Economics, Texas AandM University, College Station, Texas.
-Graduate Research Assistant, Agricultural and Food Policy Center, Department of Agricultural Economics, Texas AandM University, College Station, Texas.
-RESEARCH INTERESTS:
-Risk Analysis, Simulation Modeling, Decision Theory, Data Analysis with Limited Information, Forecasting and Calibration
-CHAPTERS IN BOOKS 2:
-1. Richardson, J.W., K. Schumann, and P. Feldman. "Simulation for Excel to Analyze Risk." Department of Agricultural Economics, Texas AandM University, College Station, Texas, August 30, 2001.
-2. Richardson, J.W., K. Schumann, and P. Feldman. "Simetar. Simulation for Excel to Analyze Risk." Department of Agricultural Economics, Texas AandM University, College Station, Texas, 2004-01.
-PROFESSIONAL PAPERS 5:
-1. Smith, E. G., J. D. Richardson, D. P. Anderson, R. D. Knutson, P. Feldman, K. Schumann, Joe L. Outlaw, Steven L. Klose, and Cody White. "Representative Cotton Farms Economic Outlook for the 2000-01 FAPRI/AFPC Baseline." Paper presented at the USDA Agricultural Outlook Forum 2000, Washington, D.C., February 25, 2000.
-2. Schumann, K. D., J. D. Richardson, P. A. Feldman, E. G. Smith. "Comparison of Alternative Safety Net Programs for the 2000 Farm Bill." Paper presented at the Southern Agricultural Economics Association Annual Meetings, 2000. Forth Worth Texas, January 30, 2001.
-3. Feldman, P., J. W. Richardson, K. D. Schumann. "Distribution Choice under Null Priors and Small Sample Size." Paper presented at the 2004 AAEA Annual Meeting, Denver, CO, August 1-4, 2004.
-4. Asheim, Leif, J. W. Richardson, K. D. Schumann, P. A. Feldman. "Stochastic Optimization with Simetar. An Application to Sub-Arctic Dairy Farming." Paper presented at the EWDA-04 European Workshop for Decision Problems in Agriculture and Natural Resources, Silsoe, Bedfordshire, GB. Sept. 27-28, 2004.
-EXPERIMENT STATION PUBLICATIONS 30:
-1. Anderson, David P., James W. Richardson, Edward G. Smith, Ronald D. Knutson, Allan W. Gray, Steven L. Klose, Paul A. Feldman, and C. Shane Land. "Farm Level Impacts of the European Union's Proposed "Agenda
+expected graduation: 2005-08.
+m.s. agricultural economics, texas aandm university, college station, texas. thesis: "farm level technology assessment in sub-saharan africa: a case study in mali." b.s. agricultural economics, texas aandm university, college station, texas.
+texas agricultural experiment station research associate, department of agricultural economics, texas aandm university, college station, texas.
+texas cooperative extension associate-risk management, department of agricultural economics, texas aandm university, college station, texas.
+graduate research assistant, agricultural and food policy center, department of agricultural economics, texas aandm university, college station, texas.
+research interests:
+risk analysis, simulation modeling, decision theory, data analysis with limited information, forecasting and calibration
+chapters in books 2:
+1. richardson, j.w., k. schumann, and p. feldman. "simulation for excel to analyze risk." department of agricultural economics, texas aandm university, college station, texas, august 30, 2001.
+2. richardson, j.w., k. schumann, and p. feldman. "simetar. simulation for excel to analyze risk." department of agricultural economics, texas aandm university, college station, texas, 2004-01.
+professional papers 5:
+1. smith, e. g., j. d. richardson, d. p. anderson, r. d. knutson, p. feldman, k. schumann, joe l. outlaw, steven l. klose, and cody white. "representative cotton farms economic outlook for the 2000-01 fapri/afpc baseline." paper presented at the usda agricultural outlook forum 2000, washington, d.c., february 25, 2000.
+2. schumann, k. d., j. d. richardson, p. a. feldman, e. g. smith. "comparison of alternative safety net programs for the 2000 farm bill." paper presented at the southern agricultural economics association annual meetings, 2000. forth worth texas, january 30, 2001.
+3. feldman, p., j. w. richardson, k. d. schumann. "distribution choice under null priors and small sample size." paper presented at the 2004 aaea annual meeting, denver, co, august 1-4, 2004.
+4. asheim, leif, j. w. richardson, k. d. schumann, p. a. feldman. "stochastic optimization with simetar. an application to sub-arctic dairy farming." paper presented at the ewda-04 european workshop for decision problems in agriculture and natural resources, silsoe, bedfordshire, gb. sept. 27-28, 2004.
+experiment station publications 30:
+1. anderson, david p., james w. richardson, edward g. smith, ronald d. knutson, allan w. gray, steven l. klose, paul a. feldman, and c. shane land. "farm level impacts of the european union's proposed "agenda

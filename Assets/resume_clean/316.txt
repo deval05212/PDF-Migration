@@ -1,55 +1,55 @@
 ﻿
-Ramon Chipman
-+19236312732 @ramonchipman@gmail.com reddit.com/u/_CTAramon
-Redmond, USA
-EXPERIENCE
-Enterprise Architect and Programme Manager Mills Group 2016- Ongoing
-Mills Group is an award-winning Microsoft Gold Certified Partner and Microsoft's dominant database modernisation, migration, and optimisation partner and Amazon Web Services consulting partner. Developed Enterprise capability decommissioning 10+ systems.
-Lead the SAP ERP Application Interface Rationalization effort and reduced interface counts by 55%
-Chief Architect, Head of Enterprise Architecture
-Rolfson 2014-2016
-Rolfson is a global leader in technology services and consulting enabling clients in more than 50 countries to create and execute strategies for their digital enterprise
-Delivered over 20 practical, efficient, innovative and customer- focused solutions
->10M OPEX savings through inra-team synergies and systematised process automation
-Rationalized corporate-wide technology asset portfolio of $400M
-Designed $40M "Network-of-the-Future" to realise Strategic Scalability, Efficiency and Growth Goals
-Increased Virtual Local Area Network VLAN availability by 10% by analyzing and optimizing existing network
-Enterprise Architect - Data and Standards
-Wolf Inc 2011-2014 Mansfield, USA
-Wolf Inc is the regional headquarters of Toyota Corporation.
-Introduced new SDLC and standards governance increasing quality by 50%
-Eliminated significant mainframe MIPS spent on SAS resulting in $2.5M in savings
-Managed Global Team of Architects and Business Strategists, to influence $100 million business target.
-Lead the SAP ERP Application Interface Rationalization effort and reduced interface counts by 55%
-Led the Airports adoption of cloud technology in less than years
-CERTIFICATION
-AWS Certified Solution Architect - Associate SAA-C01
-Amazon Web Services - 2018-10 Validation Number - E9LDDHJK12BQQ7SC
-TOGAF and Architectural Thinking Nationwide Architect Training
-NodeJS and JavaScript
-Macy's Leadership and Development
-ACHIEVEMENTS
-Enrolled children to Schools Helped to enrol several children to Schools in Afghanistan through FSTS,
-Jutland Championship in Karate
-I was able to take part in the championships and win after practicing years.
-STRENGTHS
-I adapt to new concepts and situations quickly.
-- Adapt to work with SAP with nearly no help.
-- Understand Blockchain and apply it in a company setting.
-Cross-cultural understanding
-Through travel, work, international studies and volunteering I have gained the ability to understand various cultures.
-LANGUAGES
-Spanish English
-Native
-Fluent
-EDUCATION
-Bachelor in Electrical Engineering
-Institute of Technology and Management - NYC 2010-2016 GPA 3.5/4.00
-M.B.A
-University of Texas at Dallas
-INDUSTRY EXPERTISE
-Healthcare and Insurance
-Education
-Information Retrieval Systems/Search
+ramon chipman
++19236312732 @ramonchipman@gmail.com reddit.com/u/_ctaramon
+redmond, usa
+experience
+enterprise architect and programme manager mills group 2016- ongoing
+mills group is an award-winning microsoft gold certified partner and microsoft's dominant database modernisation, migration, and optimisation partner and amazon web services consulting partner. developed enterprise capability decommissioning 10+ systems.
+lead the sap erp application interface rationalization effort and reduced interface counts by 55%
+chief architect, head of enterprise architecture
+rolfson 2014-2016
+rolfson is a global leader in technology services and consulting enabling clients in more than 50 countries to create and execute strategies for their digital enterprise
+delivered over 20 practical, efficient, innovative and customer- focused solutions
+>10m opex savings through inra-team synergies and systematised process automation
+rationalized corporate-wide technology asset portfolio of $400m
+designed $40m "network-of-the-future" to realise strategic scalability, efficiency and growth goals
+increased virtual local area network vlan availability by 10% by analyzing and optimizing existing network
+enterprise architect - data and standards
+wolf inc 2011-2014 mansfield, usa
+wolf inc is the regional headquarters of toyota corporation.
+introduced new sdlc and standards governance increasing quality by 50%
+eliminated significant mainframe mips spent on sas resulting in $2.5m in savings
+managed global team of architects and business strategists, to influence $100 million business target.
+lead the sap erp application interface rationalization effort and reduced interface counts by 55%
+led the airports adoption of cloud technology in less than years
+certification
+aws certified solution architect - associate saa-c01
+amazon web services - 2018-10 validation number - e9lddhjk12bqq7sc
+togaf and architectural thinking nationwide architect training
+nodejs and javascript
+macy's leadership and development
+achievements
+enrolled children to schools helped to enrol several children to schools in afghanistan through fsts,
+jutland championship in karate
+i was able to take part in the championships and win after practicing years.
+strengths
+i adapt to new concepts and situations quickly.
+- adapt to work with sap with nearly no help.
+- understand blockchain and apply it in a company setting.
+cross-cultural understanding
+through travel, work, international studies and volunteering i have gained the ability to understand various cultures.
+languages
+spanish english
+native
+fluent
+education
+bachelor in electrical engineering
+institute of technology and management - nyc 2010-2016 gpa 3.5/4.00
+m.b.a
+university of texas at dallas
+industry expertise
+healthcare and insurance
+education
+information retrieval systems/search
 www.enhancv.com
-Powered by Enhancu
+powered by enhancu

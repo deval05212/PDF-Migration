@@ -1,53 +1,53 @@
 ﻿
-Profile
-Richard Jones
-Architect
-New York, USA example@email.com
-"A professional, creative and innovative Architect with 10 years experience. I provide best-fit architectural solutions for projects a year with an average budget of $10 million. Technology consultation, assisting in defining scope and sizing of work, support opportunity identification and pursuit processes are the essential parts of my role as an Architect. I have professional communication skills to interact with all levels of management and clients".
-Details
-9 Wall St
-New York, 10005, USA
+profile
+richard jones
+architect
+new york, usa example@email.com
+"a professional, creative and innovative architect with 10 years experience. i provide best-fit architectural solutions for projects a year with an average budget of $10 million. technology consultation, assisting in defining scope and sizing of work, support opportunity identification and pursuit processes are the essential parts of my role as an architect. i have professional communication skills to interact with all levels of management and clients".
+details
+9 wall st
+new york, 10005, usa
 8905550401
-Date / Place of birth
+date / place of birth
 1989/20/03
-New York
-Nationality
-American
-Driving license Full
-Employment History
-2014-02 Present
-New York
-Senior Architect at Equifax
-As an Architect, I am a creative and innovative problem-solver.
-Links
-Linkedin
-My primary focus is to realize the vision or our clients.
-Skills
-Assist the client with review and approval of contractor's submittals
-Creative
-Apply knowledge of relevant International Regulations regarding the design of projects
-Perform operational support and analysis for an assigned
+new york
+nationality
+american
+driving license full
+employment history
+2014-02 present
+new york
+senior architect at equifax
+as an architect, i am a creative and innovative problem-solver.
+links
+linkedin
+my primary focus is to realize the vision or our clients.
+skills
+assist the client with review and approval of contractor's submittals
+creative
+apply knowledge of relevant international regulations regarding the design of projects
+perform operational support and analysis for an assigned
 area
-Participate in the development of specifications, policies, and procedures for the assigned area
-Ensure that architectural design work is organized with project staff
-. Apply engineering disciplines by keeping clear and frequent
+participate in the development of specifications, policies, and procedures for the assigned area
+ensure that architectural design work is organized with project staff
+. apply engineering disciplines by keeping clear and frequent
 communication
-Effective
+effective
 communication
-Reliable
-Attention to detail
-Analyst
-Review projects to ensure that applicable codes, standards,
+reliable
+attention to detail
+analyst
+review projects to ensure that applicable codes, standards,
 and procedures are followed and that quality is satisfactory
-Provide oversight in the development of required project
+provide oversight in the development of required project
 scopes and cost estimates for construction contract purposes
-Innovative
-Problem-solving
-2009-04 - 2014-02 New York
-Prepare estimates for fees and construction contracts
-Provide technical and administrative guidance to colleagues
+innovative
+problem-solving
+2009-04 - 2014-02 new york
+prepare estimates for fees and construction contracts
+provide technical and administrative guidance to colleagues
 in preparing construction drawings and specifications
-Seek new work by marketing and giving presentations Prepares and provide high-level briefs to senior leadership
-Architect at Planate Management Group Under the supervision of the Senior Architect, I created and implemented 20 innovative high-quality solutions per year. I led and participated in sales projects per month projects with a budget of up to $2 million and met potential clients a month.
-Hobbies
-Reading, walking, cooking
+seek new work by marketing and giving presentations prepares and provide high-level briefs to senior leadership
+architect at planate management group under the supervision of the senior architect, i created and implemented 20 innovative high-quality solutions per year. i led and participated in sales projects per month projects with a budget of up to $2 million and met potential clients a month.
+hobbies
+reading, walking, cooking

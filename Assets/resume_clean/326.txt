@@ -1,34 +1,34 @@
 ﻿
-JON KEPLEW
-123 Main Street, Apt. 101
-New York, New York 10001 Mobile: 2025551234 jonkeplew@gmail.com
-OBJECTIVE
-Architect position with an urban commercial architecture firm in Chicago.
-SUMMARY
-Architecture internship with Frank Lloyd Associates
-Magna Cum Laude graduate with BS in Architecture
-Proficient with AutoCAD, MS Office, Windows, and the Internet
-EDUCATION
-Bachelor of Science in Architecture, 2016-05
-Illinois State University, Normal, Illinois
-Graduated Magna Cum Laude with a GPA of 3.6 on a 4.0 scale
-Courses included:
-Architectural Design I, II and III Urban Design and Planning Building Construction
-Historic Preservation
-EXPERIENCE
-Survey of Structural Analysis and Design
-Architectural Engineering Theories Modern Concepts of Architecture Vernacular Buildings and Groupings
-Architecture Internship, 2015-06-2015-08
-Frank Lloyd Associates, Spring Green, Wisconsin
-Responsible for computerizing all drawings for all Frank Lloyd Wright constructed at S.C. Johnson Wax
-Responsible for training staff on the use of AutoCAD for drafting and architectural drawings
-Developed new computerized filing system to provide all architects with immediate computer-based access to historical drawings
-Drafting Internship, 2014-06-2014-08
-Acacia Architects, Chicago, Illinois
-Manual and computerized drawings for City of Chicago Urban Renewal Project
-Researched historical drawings of urban buildings prior to the Chicago Fire
-Developed microfiche archive of historical drawings to provide long-term preservation
-ACTIVITIES
-Vice President, American Institute of Architects Student Chapter, 2015-2016
-Treasurer, American Institute of Architects Student Chapter, 2014-2015
-Dorm Resident Assistant, 2014-2016
+jon keplew
+123 main street, apt. 101
+new york, new york 10001 mobile: 2025551234 jonkeplew@gmail.com
+objective
+architect position with an urban commercial architecture firm in chicago.
+summary
+architecture internship with frank lloyd associates
+magna cum laude graduate with bs in architecture
+proficient with autocad, ms office, windows, and the internet
+education
+bachelor of science in architecture, 2016-05
+illinois state university, normal, illinois
+graduated magna cum laude with a gpa of 3.6 on a 4.0 scale
+courses included:
+architectural design i, ii and iii urban design and planning building construction
+historic preservation
+experience
+survey of structural analysis and design
+architectural engineering theories modern concepts of architecture vernacular buildings and groupings
+architecture internship, 2015-06-2015-08
+frank lloyd associates, spring green, wisconsin
+responsible for computerizing all drawings for all frank lloyd wright constructed at s.c. johnson wax
+responsible for training staff on the use of autocad for drafting and architectural drawings
+developed new computerized filing system to provide all architects with immediate computer-based access to historical drawings
+drafting internship, 2014-06-2014-08
+acacia architects, chicago, illinois
+manual and computerized drawings for city of chicago urban renewal project
+researched historical drawings of urban buildings prior to the chicago fire
+developed microfiche archive of historical drawings to provide long-term preservation
+activities
+vice president, american institute of architects student chapter, 2015-2016
+treasurer, american institute of architects student chapter, 2014-2015
+dorm resident assistant, 2014-2016

@@ -1,50 +1,50 @@
 ﻿
-JOHN DOE
-PROFILE
-1234 MAIN ST. SOMEWHER, AA 12345 APT #123
-JOHN DOE@STATE EDU
+john doe
+profile
+1234 main st. somewher, aa 12345 apt #123
+john doe@state edu
 9998887777
-EDUCATION N
-T
-J
-SENIOR HIGH SCHOOL 2012-05
-STATE UNIVERSITY
-B. ARCH
+education n
+t
+j
+senior high school 2012-05
+state university
+b. arch
 2016-12
-EXPERIENCE
-EUROPEAN STUDIES PROGRAM 08/15 - 08/15
-10 WEEKS OF ARCHITECTURAL STUDY FOCUS ON DEVELOPING HAND SKILLS THROUGH SKETCHING AND GRAPHIC JOURNALING
-SPECIALTIES
-STATE UNIVERISTY
-01/15 - PRESENT
-TEACHING ASSISTANT
-GRADING PAPERS RELATING TO ARCHITECTURAL
-HISTORY
-DESIGN DEVELOPMENT
-NONPROFIT LEADERSHIP
-POSITION SUMMER 2013 and 2014
-CONSTRUCTION
-EXPERIENCE
+experience
+european studies program 08/15 - 08/15
+10 weeks of architectural study focus on developing hand skills through sketching and graphic journaling
+specialties
+state univeristy
+01/15 - present
+teaching assistant
+grading papers relating to architectural
+history
+design development
+nonprofit leadership
+position summer 2013 and 2014
+construction
+experience
 06/14
-MOUNTAIN BIKING COORDINATOR
-LED MOUNTAIN BIKING TRIPS FOR MIDDLE SCHOOL AGED KIDS FOR A DALLAS-BASED NON-PROFIT
-GENERAL LABOR
-CONCRETE, FRAMING, PAINTING, CARPENTRY EXPERIENCE
-HAND GRAPHICS
-SKILLS
-COMPUTER
-HOBBIES
-REVIT
-AUTOCAD
-SKETCHUP
-RHINO
-PHOTOSHOP
-RENDERING
-ACHIEVEMENTS
-EAGLE SCOUT
-PLANNED AND IMPLEMENTED AN INVENTORY
-ORDER OF THE ARROW BROTHERHOOD MEMBER
-AIAS CLASS REP.
-SOCIAL COMMITTEE
-2 TERMS AMERICORPS
-SERVICE
+mountain biking coordinator
+led mountain biking trips for middle school aged kids for a dallas-based non-profit
+general labor
+concrete, framing, painting, carpentry experience
+hand graphics
+skills
+computer
+hobbies
+revit
+autocad
+sketchup
+rhino
+photoshop
+rendering
+achievements
+eagle scout
+planned and implemented an inventory
+order of the arrow brotherhood member
+aias class rep.
+social committee
+2 terms americorps
+service

@@ -1,44 +1,44 @@
 ﻿
-EXPERIENCE 07/2020-present
+experience 07/2020-present
 05/2017 - 05/2020
-Herschel McLaughlin
-7900 Jast Fields, New York, NY ◆ Phone: +15554759679
-HESSEL-ORTIZ
-Agriculture
-New York, NY
-Participate in collaborative and coordination efforts with other donors and partners to optimize complementarities with Bank supported projects and program
-Participate in the dialogue with relevant representatives of the private sector in order to keep abreast with issues related to the business investment climate and identify possible areas of collaboration through public-private-partnerships
-Fluent in Polish and English language
-Sound knowledge of local market
-Proficiency with business financial processes
-Proven experience in customer facing roles/responsibilities
-Strong record of academic achievement and a strong commitment to teaching excellence
-Demonstrated experience in collaborative priority setting and decision-making
-Evidence of institutional development such as fundraising, collaboration and contracts Experience in successfully allocating, directing, and monitoring annual budgets
-QUITZON-EBERT
-Agriculture
-Excellent analytical, organization and communication
-Intermediate to advanced skill level with Intune
-Intermediate skill level with PowerShell scripting
-Intermediate skill level with Windows Autopilot
-Intermediate skill level with Group Policy
-New York, NY
-Experience supporting Windows Update for Business WUFB, Windows Server Update Services WSUS or similar system
-EDUCATION
-Experience supporting anti-virus management software
-Experience supporting a large enterprise Active Directory
-Experience supporting Jamf or a similar system
-Experience supporting third party application patching/updates using Patch My PC, Manage Engine Patch Manager or other similar patching applications
-Completion of high school program, technical/vocational program, or their equivalents
-CALIFORNIA COLLEGE OF THE ARTS
-SKILLS
-Experience in the field of Canadian agriculture educational or working
-Master's in Agriculture
-University/college courses in accounting, finance, business law and economics, or equivalent work experience
-A strong knowledge of business financial statements, especially the Agriculture segment
-A working knowledge of competitor offerings and alternate sources of financing
-A working knowledge of economic conditions and political events affecting small business, especially the Agriculture segment
-Proven success in sales, marketing and business development
-Knowledge of pruning, hand thinning, branch training and mowing
-Knowledge of grower base and farming practices in each growing region including labor, land, water, and regulatory requirements
-Trains and develops employees to be successful managers and understand the goals of the company as directed by senior management
+herschel mclaughlin
+7900 jast fields, new york, ny ◆ phone: +15554759679
+hessel-ortiz
+agriculture
+new york, ny
+participate in collaborative and coordination efforts with other donors and partners to optimize complementarities with bank supported projects and program
+participate in the dialogue with relevant representatives of the private sector in order to keep abreast with issues related to the business investment climate and identify possible areas of collaboration through public-private-partnerships
+fluent in polish and english language
+sound knowledge of local market
+proficiency with business financial processes
+proven experience in customer facing roles/responsibilities
+strong record of academic achievement and a strong commitment to teaching excellence
+demonstrated experience in collaborative priority setting and decision-making
+evidence of institutional development such as fundraising, collaboration and contracts experience in successfully allocating, directing, and monitoring annual budgets
+quitzon-ebert
+agriculture
+excellent analytical, organization and communication
+intermediate to advanced skill level with intune
+intermediate skill level with powershell scripting
+intermediate skill level with windows autopilot
+intermediate skill level with group policy
+new york, ny
+experience supporting windows update for business wufb, windows server update services wsus or similar system
+education
+experience supporting anti-virus management software
+experience supporting a large enterprise active directory
+experience supporting jamf or a similar system
+experience supporting third party application patching/updates using patch my pc, manage engine patch manager or other similar patching applications
+completion of high school program, technical/vocational program, or their equivalents
+california college of the arts
+skills
+experience in the field of canadian agriculture educational or working
+master's in agriculture
+university/college courses in accounting, finance, business law and economics, or equivalent work experience
+a strong knowledge of business financial statements, especially the agriculture segment
+a working knowledge of competitor offerings and alternate sources of financing
+a working knowledge of economic conditions and political events affecting small business, especially the agriculture segment
+proven success in sales, marketing and business development
+knowledge of pruning, hand thinning, branch training and mowing
+knowledge of grower base and farming practices in each growing region including labor, land, water, and regulatory requirements
+trains and develops employees to be successful managers and understand the goals of the company as directed by senior management

@@ -1,75 +1,75 @@
 ﻿
-LEE J. MEZA
+lee j. meza
 —
-3D TECHNICAL ARTIST
-Leezal
--Texturing
--Visual Effects
--Scripting
--Rigging
--Modeling
-6193025223 - I.meza@Lee-3D.com
+3d technical artist
+leezal
+-texturing
+-visual effects
+-scripting
+-rigging
+-modeling
+6193025223 - i.meza@lee-3d.com
 -
-http://www.Lee-3D.com
+http://www.lee-3d.com
 -
 http://www.linkedin.com/in/leemeza
-PROFESSIONAL PROFILE
-I was hired directly out of school into AAA blockbuster Uncharted 3. My second and third jobs out of school were both Lead Technical Artist positions. I was fortunate to hit the ground running and I have not stopped since. In just over three years in the industry, I have shipped six titles. Two that are PS4 launch titles. I have been driven by my passion for video games since I was a child. I have been recognized for demonstrating my strength in teamwork and having strength in creative thinking "outside-the-box" problem solving skills. I am a unique blend of creativity and logic, which is ideal for a technical artist handling a variety of tasks from scripting to rigging, to asset development, to dynamic visual effects and designing tools to streamline or set up a solid pipeline.
-SKILLS:
-Scripting/Programming Kismet, FlowGraph
-MEL
-Unreal Script
-Game Engines Unreal Tournament 3 Unreal Developer Kit Unity
-C++, C#
-Visual Basic
-Elder Scrolls Creation Kit CryEngine 3
-Lua
-Proprietary Engines
-Python
-Software Familiarity Maya, 3DS Max, Blender Photoshop, GIMP Zbrush, Mudbox After Effects Motion Builder Visual Studio
-Multilingual
-English
-Spanish Semi-Fluent Japanese Basic
-RELATED EXPERIENCE
-Sony Computer Entertainment America - Visual Arts Services Group Technical Artist Contract
-2012 - Present San Diego, CA
-Created and supported pipeline tools to maximize efficiency and minimize downtime. Supported animation and motion edit teams creating tools as needed to meet unexpected needs as they arose. Identified and resolved unexpected issues with rigs, props, tools, and scripts. Prepared and maintained tools and data structures to facilitate transitioning assets between different studios' workflows and pipelines. Handled the integration of game assets into the game engine and scene logic scripting.
-Titles Credited On:
+professional profile
+i was hired directly out of school into aaa blockbuster uncharted 3. my second and third jobs out of school were both lead technical artist positions. i was fortunate to hit the ground running and i have not stopped since. in just over three years in the industry, i have shipped six titles. two that are ps4 launch titles. i have been driven by my passion for video games since i was a child. i have been recognized for demonstrating my strength in teamwork and having strength in creative thinking "outside-the-box" problem solving skills. i am a unique blend of creativity and logic, which is ideal for a technical artist handling a variety of tasks from scripting to rigging, to asset development, to dynamic visual effects and designing tools to streamline or set up a solid pipeline.
+skills:
+scripting/programming kismet, flowgraph
+mel
+unreal script
+game engines unreal tournament 3 unreal developer kit unity
+c++, c#
+visual basic
+elder scrolls creation kit cryengine 3
+lua
+proprietary engines
+python
+software familiarity maya, 3ds max, blender photoshop, gimp zbrush, mudbox after effects motion builder visual studio
+multilingual
+english
+spanish semi-fluent japanese basic
+related experience
+sony computer entertainment america - visual arts services group technical artist contract
+2012 - present san diego, ca
+created and supported pipeline tools to maximize efficiency and minimize downtime. supported animation and motion edit teams creating tools as needed to meet unexpected needs as they arose. identified and resolved unexpected issues with rigs, props, tools, and scripts. prepared and maintained tools and data structures to facilitate transitioning assets between different studios' workflows and pipelines. handled the integration of game assets into the game engine and scene logic scripting.
+titles credited on:
 -
-- Killzone: Shadowfall
--Knack
--The Last of Us DLC: Left Behind
+- killzone: shadowfall
+-knack
+-the last of us dlc: left behind
 www.heritagechristiancollege.com
-Confetti Games
-Lead Technical Artist 5mo Contract
-2012 Encinitas, CA Duties included creating and maintaining particle effects, integrating art assets, developing pipeline tools for art team, working closely with programmers to develop and streamline art pipeline to get assets into the game quickly and efficiently and ensure optimal efficiency of the overall project. Acted as liaison to contract artists and implemented the contracted assets into our pipeline.
-Titles Credited On:
+confetti games
+lead technical artist 5mo contract
+2012 encinitas, ca duties included creating and maintaining particle effects, integrating art assets, developing pipeline tools for art team, working closely with programmers to develop and streamline art pipeline to get assets into the game quickly and efficiently and ensure optimal efficiency of the overall project. acted as liaison to contract artists and implemented the contracted assets into our pipeline.
+titles credited on:
 -
-Blackfoot Blade
-Juggernaut Games
-Lead Technical Artist
-2012 San Diego, CA
-Sole Tech Artist for a small studio creating content for PlayStation Home. Duties include rigging, creating LOD meshes, Particle Effects, and scripting Lua for game scripts and MEL for pipeline tools.
-Titles Credited On:
+blackfoot blade
+juggernaut games
+lead technical artist
+2012 san diego, ca
+sole tech artist for a small studio creating content for playstation home. duties include rigging, creating lod meshes, particle effects, and scripting lua for game scripts and mel for pipeline tools.
+titles credited on:
 -
-MiniBots: Training Facility PS Home Game
-Sony Computer Entertainment America - Visual Arts Services Group
-Jr. Technical Artist 3mo Contract
+minibots: training facility ps home game
+sony computer entertainment america - visual arts services group
+jr. technical artist 3mo contract
 2011
-San Diego, CA
-Prepared scenes for animators, ensured scenes met technical and quality specifications both going to and coming from the animation team, resolved unexpected issues that arose with rigs, props, and scripts, ensured that scenes progressed smoothly through the pipeline and ensured the quality of the end product.
-Titles Credited On:
-- Uncharted 3
-Freelance Digital Art
-Freelancer
-Personal projects undertaken as a freelance digital artist.
-Projects:
-- CG effects for a multiple film festival winning short film
-- Product pre-visualization renderings built from plans and CAD drawings for use in catalogs.
-- Short 3D cinematic animation for awareness campaign
-- Designed, modeled, and animated a 3D logo to for a catering company
-EDUCATION
-Bachelor of Science Degree, Game Art and Design
-The Art Institute of California, San Diego
-2009 - Present San Diego, CA
-Winter 2011
+san diego, ca
+prepared scenes for animators, ensured scenes met technical and quality specifications both going to and coming from the animation team, resolved unexpected issues that arose with rigs, props, and scripts, ensured that scenes progressed smoothly through the pipeline and ensured the quality of the end product.
+titles credited on:
+- uncharted 3
+freelance digital art
+freelancer
+personal projects undertaken as a freelance digital artist.
+projects:
+- cg effects for a multiple film festival winning short film
+- product pre-visualization renderings built from plans and cad drawings for use in catalogs.
+- short 3d cinematic animation for awareness campaign
+- designed, modeled, and animated a 3d logo to for a catering company
+education
+bachelor of science degree, game art and design
+the art institute of california, san diego
+2009 - present san diego, ca
+winter 2011

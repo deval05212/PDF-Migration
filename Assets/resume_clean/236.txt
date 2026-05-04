@@ -1,45 +1,45 @@
 ﻿
-Objective
-Sally Designer
-123 Place Street New York, NY 10018
-Phone: 555.867.5309 SallyDesigner@zyx.com
-An ambitious, hardworking, and passionate designer, I seek to contribute my skills and design aesthetic to assist in creating stylish, saleable fashions. A fast learner and eager to challenge myself, I aspire to continually grow and further develop my talents within the industry.
-Education
-University of Somewhereville, New York, NY: 2003-2007
-Bachelor of Art in Fashion Design
-Cumulative GPA: 3.75 4.0 scale - Magna Cum Laude distinction
-Skills
-Fashion Illustration
-Technical Design
-Textile/Print Design
-CAD Design
-Draping
-Flat Patternmaking
-Sewing/Garment Construction
-Adobe Illustrator and Photoshop
-Microsoft Word, Excel, and PowerPoint
-Experience
-Polo Ralph Lauren, New York, NY
-Freelance Design Assistant, 2007-06
-Hand sketched garment flats from designer's illustrations for Fall 2008 Collection Corrected existing flat details
-Copied and assembled design packets
-Organized and filed design packets in style books
-Anna Sui, New York, NY
-Design Intern, 2005-09- 2006-03 Sourced and ordered fabrics and trims
-Assisted in arranging and running sample sale
-Maintained inventory on samples in showroom
-Implemented organization system for trims and storage room
-Clubs and Activities
-University of Somewhereville Fashion Club- 2005-2007
-Organized events for fashion club members
-Scheduled guest speakers for fashion club seminars
-University of Somewhereville Senior Fashion Show Volunteer Dresser -2004-2006
-Assisted models with dressing in 12 garments for Senior Fashion Show
-Ensured proper wear and presentation of each garment worn by model before entering runway
-Honors and Awards
-Award for Excellence in Fashion Design: 2007-06
-Somewhereville Grant: 2006-2007
-Golden Key International Honor Society
-University of Somewhereville Dean's List: 2003- 2007
-Fashion Designers Fund Award: Spring 2006
-Fashion Achievement Grant: 2006-2007
+objective
+sally designer
+123 place street new york, ny 10018
+phone: 555.867.5309 sallydesigner@zyx.com
+an ambitious, hardworking, and passionate designer, i seek to contribute my skills and design aesthetic to assist in creating stylish, saleable fashions. a fast learner and eager to challenge myself, i aspire to continually grow and further develop my talents within the industry.
+education
+university of somewhereville, new york, ny: 2003-2007
+bachelor of art in fashion design
+cumulative gpa: 3.75 4.0 scale - magna cum laude distinction
+skills
+fashion illustration
+technical design
+textile/print design
+cad design
+draping
+flat patternmaking
+sewing/garment construction
+adobe illustrator and photoshop
+microsoft word, excel, and powerpoint
+experience
+polo ralph lauren, new york, ny
+freelance design assistant, 2007-06
+hand sketched garment flats from designer's illustrations for fall 2008 collection corrected existing flat details
+copied and assembled design packets
+organized and filed design packets in style books
+anna sui, new york, ny
+design intern, 2005-09- 2006-03 sourced and ordered fabrics and trims
+assisted in arranging and running sample sale
+maintained inventory on samples in showroom
+implemented organization system for trims and storage room
+clubs and activities
+university of somewhereville fashion club- 2005-2007
+organized events for fashion club members
+scheduled guest speakers for fashion club seminars
+university of somewhereville senior fashion show volunteer dresser -2004-2006
+assisted models with dressing in 12 garments for senior fashion show
+ensured proper wear and presentation of each garment worn by model before entering runway
+honors and awards
+award for excellence in fashion design: 2007-06
+somewhereville grant: 2006-2007
+golden key international honor society
+university of somewhereville dean's list: 2003- 2007
+fashion designers fund award: spring 2006
+fashion achievement grant: 2006-2007

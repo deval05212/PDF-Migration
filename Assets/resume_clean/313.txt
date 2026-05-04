@@ -1,34 +1,34 @@
 ﻿
-Contact
-X
-Mary Jane Doe
+contact
+x
+mary jane doe
 +53 112234-05
 janedoesn't.com
-Bethany, France
-Personal Skills
-English ......
-Spanish.....
-German...
-British
-Hobbies
-Christopher Baltimore
-Architect
-About Me
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in
-Education
+bethany, france
+personal skills
+english ......
+spanish.....
+german...
+british
+hobbies
+christopher baltimore
+architect
+about me
+lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. duis autem vel eum iriure dolor in
+education
 2016-2020
-BS Fine Arts Major in Advertising Montriad University
+bs fine arts major in advertising montriad university
 2012-2016
-Junior High School Montriad Learning School
-Experience
-Present Architect
-Architectural Firm Co.
-Est, que conecat molo magnienis eictaqu assinctis volor maximus et ut autat.
-2019-2020 Draftsman
-Buddy Builds Architecture
-Est, que conecat molo magnienis eictaqu assinctis volor maximus et ut autat.
-2018-2019 Junior Draftsman
-Narnia Labs
-Est, que conecat molo magnienis eictaqu
+junior high school montriad learning school
+experience
+present architect
+architectural firm co.
+est, que conecat molo magnienis eictaqu assinctis volor maximus et ut autat.
+2019-2020 draftsman
+buddy builds architecture
+est, que conecat molo magnienis eictaqu assinctis volor maximus et ut autat.
+2018-2019 junior draftsman
+narnia labs
+est, que conecat molo magnienis eictaqu
 assinctis volor maximus et ut autat.
-TEMPLATE.NET
+template.net

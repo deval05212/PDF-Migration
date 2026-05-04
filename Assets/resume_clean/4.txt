@@ -1,50 +1,50 @@
 ﻿
-Place of birth
-Nationality
-Olivia Ogilvy, Accountant
-1515 Pacific Ave, Los Angeles, CA 90291, United States, email@email.com
-San Antonio
-Driving license
-American
-LINKS
-Twitter, Linkedin, Facebook
-PROFILE
-EMPLOYMENT HISTORY
+place of birth
+nationality
+olivia ogilvy, accountant
+1515 pacific ave, los angeles, ca 90291, united states, email@email.com
+san antonio
+driving license
+american
+links
+twitter, linkedin, facebook
+profile
+employment history
 2017-05 2019-04
 —
-Experienced Certified Public Accountant with 7+ years of experience in financial reporting, reconciliations and PandL statements. Holds an MBA plus a Business Valuations Certificate. Proven track record in financial system overhaul resulting in improvements of up to 30% in terms of processing speed and accuracy.
-Accountant III, BZG Bank
-Full
-Los Angeles
+experienced certified public accountant with 7+ years of experience in financial reporting, reconciliations and pandl statements. holds an mba plus a business valuations certificate. proven track record in financial system overhaul resulting in improvements of up to 30% in terms of processing speed and accuracy.
+accountant iii, bzg bank
+full
+los angeles
 2013-01 2017-03
 2011-01 - 2012-12
-Implemented a cash conversion model for six branches and ten ATMs that saved $40,000 a year in processing expenses.
-Oversee all financial reporting and accounting functions.
-Manage a team of accounting clerks during the reconciliation of bank accounts, analysis of periodic financials, and preparation of budgets.
-Compile financial statements and submit to Financial Director
-Reconcile TandE, Amex, Petty Cash, and Prepaid accounts
-Verify all payments against invoices and accounts receivable reports
-Update budgetary schedules and expense reports every 30 days
-Responsible for the payroll function of 1500 employees
-Accountant II, H2O Manufacturing
-Tampa
-Reinvented the format of several critical and complicated Balance Sheet account reconciliations which reduced the error variations by 30%.
-Prepare journal entries, reconciliations, and trend analyses during month end
-Manage revenue, accounts payable, accounts receivable and expense accrual accounts
-Liaise with operations, production, and marketing department to validate the correctness of financial information and review financial data reports
-Assist with migration of the balance sheet from Oracle to SAP
-Responsible for cash disbursement
-Engage with internal audit team to complete documentation for SOX and Basel II
-Accountant I, Cobb and Associates
-San Diego
-Retrieved over $100,000 in overdue receivables in less than three months by assigning a temp debt collector to follow up on outstanding payments.
-Assist with monthly, quarterly and annual financial statements, general ledger, balance sheet reconciliations, journal entries, fixed assets, and PandL reporting
-Calculate variances between actual results and budget forecasts.
-Reconciliations of main bank account and international subsidiary accounts
-Prepare documents for annual tax returns
-Work with external auditors during the audit review and compile all the necessary documentation required during the investigation
-Responsible for accounts payable and accounts receivable statements
-EDUCATION
+implemented a cash conversion model for six branches and ten atms that saved $40,000 a year in processing expenses.
+oversee all financial reporting and accounting functions.
+manage a team of accounting clerks during the reconciliation of bank accounts, analysis of periodic financials, and preparation of budgets.
+compile financial statements and submit to financial director
+reconcile tande, amex, petty cash, and prepaid accounts
+verify all payments against invoices and accounts receivable reports
+update budgetary schedules and expense reports every 30 days
+responsible for the payroll function of 1500 employees
+accountant ii, h2o manufacturing
+tampa
+reinvented the format of several critical and complicated balance sheet account reconciliations which reduced the error variations by 30%.
+prepare journal entries, reconciliations, and trend analyses during month end
+manage revenue, accounts payable, accounts receivable and expense accrual accounts
+liaise with operations, production, and marketing department to validate the correctness of financial information and review financial data reports
+assist with migration of the balance sheet from oracle to sap
+responsible for cash disbursement
+engage with internal audit team to complete documentation for sox and basel ii
+accountant i, cobb and associates
+san diego
+retrieved over $100,000 in overdue receivables in less than three months by assigning a temp debt collector to follow up on outstanding payments.
+assist with monthly, quarterly and annual financial statements, general ledger, balance sheet reconciliations, journal entries, fixed assets, and pandl reporting
+calculate variances between actual results and budget forecasts.
+reconciliations of main bank account and international subsidiary accounts
+prepare documents for annual tax returns
+work with external auditors during the audit review and compile all the necessary documentation required during the investigation
+responsible for accounts payable and accounts receivable statements
+education
 2016-04 - 2016-08
-Association for Investment Management and Research AIMR, Chartered Financial Analyst CFA
-Tampa
+association for investment management and research aimr, chartered financial analyst cfa
+tampa

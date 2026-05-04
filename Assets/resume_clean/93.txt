@@ -1,23 +1,23 @@
 ﻿
-ROBERT SMITH
-Client Service Advocate
-info@qwikresume.com LinkedIn Profile Qwikresume.com
-The customer service representative is responsible for providing effective customer service for all internal and external customers by using excellent, in-depth knowledge of company products and programs as well as communicating effectively with team members within the customer service department.
-EXPERIENCE
-Client Service Advocate
-IT Consulting And Lifecycle Services - 2014-12 - PRESENT Advocate works with Fortune 500 global enterprises and has experienced three-year sales growth of 55% and averages a 98% customer satisfaction rating.
-Senior Consultant Responsible for the client relationship of consulting engagements for Fortune 500 companies and leading a team of Senior Consultants Senior Architects, Data Scientists and Analysts for the delivery of Cloud Solutions SaaS, PaaS, DRaaS and UCaaS, Managed Services, Enterprise Architecture Strategy. Technology and Financial Roadmaps, Data Center Transformation, Colocation, Voice and Data Sourcing, and Networking.
-Achievement Highlights Data Center Ecosystem Transformation Developed Data Center Consolidation plan and Technology Roadmap for a large national financial enterprise that resulted in an annual savings of over $5 million while adding redundancy for improved continuity across the spectrum of the compute infrastructure.
-Network Infrastructure Redesign Engaged to improve the reliability and reduce the cost of the network infrastructure of a luxury lifestyle brand enterprise.
+robert smith
+client service advocate
+info@qwikresume.com linkedin profile qwikresume.com
+the customer service representative is responsible for providing effective customer service for all internal and external customers by using excellent, in-depth knowledge of company products and programs as well as communicating effectively with team members within the customer service department.
+experience
+client service advocate
+it consulting and lifecycle services - 2014-12 - present advocate works with fortune 500 global enterprises and has experienced three-year sales growth of 55% and averages a 98% customer satisfaction rating.
+senior consultant responsible for the client relationship of consulting engagements for fortune 500 companies and leading a team of senior consultants senior architects, data scientists and analysts for the delivery of cloud solutions saas, paas, draas and ucaas, managed services, enterprise architecture strategy. technology and financial roadmaps, data center transformation, colocation, voice and data sourcing, and networking.
+achievement highlights data center ecosystem transformation developed data center consolidation plan and technology roadmap for a large national financial enterprise that resulted in an annual savings of over $5 million while adding redundancy for improved continuity across the spectrum of the compute infrastructure.
+network infrastructure redesign engaged to improve the reliability and reduce the cost of the network infrastructure of a luxury lifestyle brand enterprise.
 .
-Achieved 99.999% availability and a reduction of the TCO by $1.8 million.
-Cloud PBX Implementation Planning Negotiated contracts to signature for a national chain of hotels with over 600 properties.
-Developed implementation plan and budget for replacing an existing, mixed infrastructure of outdated PBX solutions.
-Advocate
-ABC Corporation - 2012-2014
-Responsibilities Worked with survivors of domestic violence and
+achieved 99.999% availability and a reduction of the tco by $1.8 million.
+cloud pbx implementation planning negotiated contracts to signature for a national chain of hotels with over 600 properties.
+developed implementation plan and budget for replacing an existing, mixed infrastructure of outdated pbx solutions.
+advocate
+abc corporation - 2012-2014
+responsibilities worked with survivors of domestic violence and
 sexual assault in a shelter environment
-Maintained client records
-Answered crisis call line
-Participated in organization and execution of community awareness events
-This Free Resume Template is the copyright of Qwikresume.com. Usage Guidelines
+maintained client records
+answered crisis call line
+participated in organization and execution of community awareness events
+this free resume template is the copyright of qwikresume.com. usage guidelines

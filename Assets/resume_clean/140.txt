@@ -1,42 +1,42 @@
 ﻿
-EXPERIENCE
+experience
 07/2018 - present
-Avril O'Keefe
-1595 Feil Crossing, Houston, TX ◆ Phone: +15554165183
-MACGYVER GROUP
-Senior Advocate
-Mathematical skills with proficiency in preparing and analyzing reports using Excel
-San Francisco, CA
-Experience with healthcare insurance programs and reimbursement methodologies for facility and professional claims
-Experience with Medicare, Medicaid and Commercial healthcare regulations Knowledge of Power MHS
-Experience building and managing business models, defining customer and market segmentation, and setting product pricing
-Demonstrated track record of defining and launching products/services
-Experience constructing and managing sales demand-generation programs
-Track record of turning ambiguous ideas into products and delivering novel cloud services Experience bringing new managed service products to market
-Experience working at or closely with enterprise software startup companies
-San Francisco, CA
+avril o'keefe
+1595 feil crossing, houston, tx ◆ phone: +15554165183
+macgyver group
+senior advocate
+mathematical skills with proficiency in preparing and analyzing reports using excel
+san francisco, ca
+experience with healthcare insurance programs and reimbursement methodologies for facility and professional claims
+experience with medicare, medicaid and commercial healthcare regulations knowledge of power mhs
+experience building and managing business models, defining customer and market segmentation, and setting product pricing
+demonstrated track record of defining and launching products/services
+experience constructing and managing sales demand-generation programs
+track record of turning ambiguous ideas into products and delivering novel cloud services experience bringing new managed service products to market
+experience working at or closely with enterprise software startup companies
+san francisco, ca
 01/2014 - 05/2018
-EMARD-KLING
-Senior Advocate
-Hands on experience with mobile or web application development stacks,, at least one of Android Java or Kotlin, Flutter Dart, Vue.js, Svelte
-Experience building a developer community
-Experience in contributing or building Open Source projects
-Hands on experience with cloud back end platforms
-EDUCATION
-SKILLS
-Experience creating and editing high quality coding video tutorials
-Experience writing technical blog posts, tutorials, and documentation
-Knowledge of at least two major programming languages - Ruby, C#, Java, PHP, Go, Rust or Node Strong databases skills SQL or NoSQL
-Adjusters and/or Brokers license
-Multi-line brokerage or carrier claims experience with a heavy emphasis on 1st party property claims
-UNIVERSITY OF MISSOURI-COLUMBIA
-Bachelor's in Psychology
-Partner with clients on ongoing basis to help them understand their cloud spend and optimize it based on their unique needs
-Thrives working within a high pace environment
-Superior prioritization and organizational skills
-Excellent communication skills and proven stakeholder management
-Customer centric approach to problem resolution and proven results
-Proctoring experience with training classes
-Expertise with policies, procedures relative to the site designated skill groups
-Strong results on call ownership and client satisfaction
-Thorough understanding of insurance contract provisions, administrative policies and procedures
+emard-kling
+senior advocate
+hands on experience with mobile or web application development stacks,, at least one of android java or kotlin, flutter dart, vue.js, svelte
+experience building a developer community
+experience in contributing or building open source projects
+hands on experience with cloud back end platforms
+education
+skills
+experience creating and editing high quality coding video tutorials
+experience writing technical blog posts, tutorials, and documentation
+knowledge of at least two major programming languages - ruby, c#, java, php, go, rust or node strong databases skills sql or nosql
+adjusters and/or brokers license
+multi-line brokerage or carrier claims experience with a heavy emphasis on 1st party property claims
+university of missouri-columbia
+bachelor's in psychology
+partner with clients on ongoing basis to help them understand their cloud spend and optimize it based on their unique needs
+thrives working within a high pace environment
+superior prioritization and organizational skills
+excellent communication skills and proven stakeholder management
+customer centric approach to problem resolution and proven results
+proctoring experience with training classes
+expertise with policies, procedures relative to the site designated skill groups
+strong results on call ownership and client satisfaction
+thorough understanding of insurance contract provisions, administrative policies and procedures

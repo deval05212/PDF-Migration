@@ -1,36 +1,36 @@
 ﻿
-JOSIAH WEDGWOOD
-06/12/1730 English ● 9999999999 hello@kickresume.com
+josiah wedgwood
+06/12/1730 english ● 9999999999 hello@kickresume.com
 www.kickresume.com
-EDUCATION
-BSc Accounting and Finance
+education
+bsc accounting and finance
 09/2013 - 07/2016
-London School of Economics, London, UK
-Developed core knowledge and skills in accounting and finance. Learnt to analyse ways in which management, shareholders, and various other stakeholders understand and operate organisations and institutions within the economy and society.
-ACCOUNTING EXPERIENCE
-Audit Intern 03/2016-06/2016
-Volunteer 01/2016-04/2016
-Audit Intern
-LSE Language Centre, London, UK
-Conducted audits of time sheets and maintained records free of errors to coincide with payroll.
-Performed transactional assistance with miscellaneous ad hoc projects to prepare reports for review.
-Volunteer Income Tax Assistance, London, UK
-Provided income tax preparation assistance at no cost to low-income, elderly and disabled persons, and families with limited English-speaking abilities.
-Prepared average one to two tax returns per hour
-LSE Audit and Advisory Services, London, UK
-Performed analytic reviews for payroll, travel reimbursement for fraud and accuracy, also perform test of transactions to determine departmental compliance with campus policy and procedures
-Assisted the auditors in the performance of operational, departmental, financial, and compliance procedures
-Collaborated with the auditors in the development of training presentations to campus community
-Created and executed SQL based queries, complex Excel functions VLOOKUP, pivot tables, concatenates and IF/OR formulas to perform tests such as Benford's Law
-LEADERSHIP EXPERIENCE
-Transfer Student Mentor LSE Department of Accounting, London, UK
+london school of economics, london, uk
+developed core knowledge and skills in accounting and finance. learnt to analyse ways in which management, shareholders, and various other stakeholders understand and operate organisations and institutions within the economy and society.
+accounting experience
+audit intern 03/2016-06/2016
+volunteer 01/2016-04/2016
+audit intern
+lse language centre, london, uk
+conducted audits of time sheets and maintained records free of errors to coincide with payroll.
+performed transactional assistance with miscellaneous ad hoc projects to prepare reports for review.
+volunteer income tax assistance, london, uk
+provided income tax preparation assistance at no cost to low-income, elderly and disabled persons, and families with limited english-speaking abilities.
+prepared average one to two tax returns per hour
+lse audit and advisory services, london, uk
+performed analytic reviews for payroll, travel reimbursement for fraud and accuracy, also perform test of transactions to determine departmental compliance with campus policy and procedures
+assisted the auditors in the performance of operational, departmental, financial, and compliance procedures
+collaborated with the auditors in the development of training presentations to campus community
+created and executed sql based queries, complex excel functions vlookup, pivot tables, concatenates and if/or formulas to perform tests such as benford's law
+leadership experience
+transfer student mentor lse department of accounting, london, uk
 08/2015 - 06/2016
-Planed workshops of professional etiquette, career fair, and CPA exam preparation
-Provided detailed guidance to mentees by analyzing their academic and career planning
-Collaborated with Department of Accounting staff, faculty and other mentors to assist mentees.
-SKILLS
-German
-Visio and Adobe
-OTHER ACTIVITIES
-SQL QuickBooks
-Member, Accounting Society, LSE - 2014-10 - Present Member, Athletic Society, LSE - 2015-09 - Present Member, Debating Society, LSE - 2015-08 - Present
+planed workshops of professional etiquette, career fair, and cpa exam preparation
+provided detailed guidance to mentees by analyzing their academic and career planning
+collaborated with department of accounting staff, faculty and other mentors to assist mentees.
+skills
+german
+visio and adobe
+other activities
+sql quickbooks
+member, accounting society, lse - 2014-10 - present member, athletic society, lse - 2015-09 - present member, debating society, lse - 2015-08 - present

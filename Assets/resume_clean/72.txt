@@ -1,34 +1,34 @@
 ﻿
-CHANG BEATTY
+chang beatty
 address
-175 Kling Route, Phoenix, AZ
+175 kling route, phoenix, az
 tel
 +15557525517
-Experience
-Cremin LLC
-Dallas, TX Advocate 04/2018 - present
-Fluent in English and German C1 proficiency, oral and written
-Excellent customer service skills and customer handling experience
-Acts confidently in ambiguous situations
-Takes well thought-out action to evaluate, troubleshoot, and follow-up on customer issues, including testing, replicating, and escalating scenarios
-Fluent in English no less than C1 proficiency, oral and written
-Social work, behavioral health, disease prevention, health promotion and behavior change working with vulnerable populations and Medicaid
-Beier, O'Keefe and Willms
-Dallas, TX Advocate 12/2010 - 12/2017
-Familiarity and knowledge of APIs and webhooks
-Own standards for how we interact with our community
-Establish and maintain external rules of engagement for the community
-Identify where to meet our community where they are today Reddit, StackOverflow
-Act as a stakeholder for any developer resources, such as our new, to-be- built developer community
-High level of comfort writing code that leverages APIs
-Experience with presenting content to developer audiences
-Experience with developer relations
-Education
-Baylor University
-Bachelor's in Education
-Skills
-Preferred experience with Rapid Re-housing programs and/or transitional housing programs
-Experience offering case management to at-risk populations, offering a trauma-informed approached
-An ongoing commitment to providing trauma-informed services to program participants and others
-High level of empathy, flexibility and comfort providing support and advocacy to people experiencing domestic violence
-Skill in reading documents written in standard English text such as administrative policy and procedures manuals
+experience
+cremin llc
+dallas, tx advocate 04/2018 - present
+fluent in english and german c1 proficiency, oral and written
+excellent customer service skills and customer handling experience
+acts confidently in ambiguous situations
+takes well thought-out action to evaluate, troubleshoot, and follow-up on customer issues, including testing, replicating, and escalating scenarios
+fluent in english no less than c1 proficiency, oral and written
+social work, behavioral health, disease prevention, health promotion and behavior change working with vulnerable populations and medicaid
+beier, o'keefe and willms
+dallas, tx advocate 12/2010 - 12/2017
+familiarity and knowledge of apis and webhooks
+own standards for how we interact with our community
+establish and maintain external rules of engagement for the community
+identify where to meet our community where they are today reddit, stackoverflow
+act as a stakeholder for any developer resources, such as our new, to-be- built developer community
+high level of comfort writing code that leverages apis
+experience with presenting content to developer audiences
+experience with developer relations
+education
+baylor university
+bachelor's in education
+skills
+preferred experience with rapid re-housing programs and/or transitional housing programs
+experience offering case management to at-risk populations, offering a trauma-informed approached
+an ongoing commitment to providing trauma-informed services to program participants and others
+high level of empathy, flexibility and comfort providing support and advocacy to people experiencing domestic violence
+skill in reading documents written in standard english text such as administrative policy and procedures manuals

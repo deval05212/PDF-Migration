@@ -1,35 +1,35 @@
 ﻿
-MINNIE
-J BLOHM
-PORTAL ARCHITECT
+minnie
+j blohm
+portal architect
 2086449505
-175 Science Center Drive Jerome, ID 83338
+175 science center drive jerome, id 83338
 minnie@defmail.com
 minnie.com
-PROFICIENC
-Research
-Management
-JOB OBJECTIVE
-To obtain a Portal Architect position that enables me to make a positive contribution to the company by utilizing my skills to their fullest potential.
-Technical
-Leadership
-Planning
-Initiative
-LANGUAGE
-English
-Spanish
-Mexican
-PROFESSIONAL QUALIFICATIONS
-Strong experience in large-scale enterprise systems and projects using J2EE/JAVA EE and portal technology.
-Familiar with SDLC methodologies including RUP and Agile.
-Familiar with the core design patterns and best practices. Outstanding knowledge of Java coding and administering Java on Linux.
-Exceptional knowledge of business process design concepts and principles.
-Huge knowledge of development and deployment of application into J2EE application servers.
-Proficient in SOA and various architecture principles. Ability to do white-boarding sessions with enterprise architecture group and suggest changes.
+proficienc
+research
+management
+job objective
+to obtain a portal architect position that enables me to make a positive contribution to the company by utilizing my skills to their fullest potential.
+technical
+leadership
+planning
+initiative
+language
+english
+spanish
+mexican
+professional qualifications
+strong experience in large-scale enterprise systems and projects using j2ee/java ee and portal technology.
+familiar with sdlc methodologies including rup and agile.
+familiar with the core design patterns and best practices. outstanding knowledge of java coding and administering java on linux.
+exceptional knowledge of business process design concepts and principles.
+huge knowledge of development and deployment of application into j2ee application servers.
+proficient in soa and various architecture principles. ability to do white-boarding sessions with enterprise architecture group and suggest changes.
 immense ability to determine and assign tasks to others to achieve project goals.
-Remarkable ability to set scope, complete assigned tasks, and deliver quality results.
-Outstanding ability to transform customer requirements into application designs.
-Amazing ability to manage all facets of the System
-Development Life Cycle SDLC.
-Uncommon ability to work in a team environment, effectively interacting with others.
-TEMPLATE NET
+remarkable ability to set scope, complete assigned tasks, and deliver quality results.
+outstanding ability to transform customer requirements into application designs.
+amazing ability to manage all facets of the system
+development life cycle sdlc.
+uncommon ability to work in a team environment, effectively interacting with others.
+template net

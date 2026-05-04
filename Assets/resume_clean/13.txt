@@ -1,49 +1,49 @@
 ﻿
 avatar
-John Elwes
-Accomplished Accounts Payable Specialist with a high degree of professionalism and strong problem solving abilities. Maintains 100% accuracy in processing invoices. Proficient at vendor management and thrives in challenging, fast-paced environments. Dedicated to providing current state-of-accounts reports to inform cash flow management decisions.
-Nationality: English
-Personal info
-Date of birth: 26/11/1714
-Phone number: 9999999999 Web: www.kickresume.com
-Email address: hello@kickresume.com
-Work experience
-Accounts Payable Clerk
-XYZ Company Ltd.
-LONDON
-Efficiently process vendor invoices and maintain up-to-date system. Open and track customer and vendor accounts.
-Coordinate approval processes of all accounts payable invoices.
-Balance batch summary reports for verification and approval.
-Research and resolve billing and invoice problems.
-Coordinated approval processes of all accounts payable invoices.
-Accounts Payable Clerk
-ABC Company Ltd.
-LONDON
-Verified details of transaction, including funds available and total account balances. Overhauled internal controls and accounting quality system to prepare for important audits.
-Dealt with suppliers and renegotiated contracts.
-Coded the general ledger and processed vendor invoice payments.
-Rectified escalated accounts payable issues from employees and vendors.
-Calculate rates paid for purchases and all price extensions.
-Education
-Strengths
-Financial Accountant
-EFG Company Ltd.
-LONDON
-Analysed revenues, commissions, and expenses to ensure they are recorded appropriately on a monthly basis.
-Assisted with corporate tax reporting requirements.
-Conducted reviews and evaluations for cost-reduction opportunities.
-Prepared financial statements and supporting schedules according to annual close schedule.
-Performed general accounts analysis and reconciliations, including bank statements, fixed assets, employer's benefit costs, accruals and prepaid expenses.
-BSc Hons Financial Economics University of St Andrews
-09/2002 07/2006 SCOTLAND
-2.1 Upper Second Undergraduate Degree
-# Organisation
-#Time Management
-# MS Excel
-# Public Speaking
-# Team Leadership
-# Attention to Detail
-# SQL
-# Data Analytics
-# MS Visual Basic
-# IBM Congos # SAP
+john elwes
+accomplished accounts payable specialist with a high degree of professionalism and strong problem solving abilities. maintains 100% accuracy in processing invoices. proficient at vendor management and thrives in challenging, fast-paced environments. dedicated to providing current state-of-accounts reports to inform cash flow management decisions.
+nationality: english
+personal info
+date of birth: 26/11/1714
+phone number: 9999999999 web: www.kickresume.com
+email address: hello@kickresume.com
+work experience
+accounts payable clerk
+xyz company ltd.
+london
+efficiently process vendor invoices and maintain up-to-date system. open and track customer and vendor accounts.
+coordinate approval processes of all accounts payable invoices.
+balance batch summary reports for verification and approval.
+research and resolve billing and invoice problems.
+coordinated approval processes of all accounts payable invoices.
+accounts payable clerk
+abc company ltd.
+london
+verified details of transaction, including funds available and total account balances. overhauled internal controls and accounting quality system to prepare for important audits.
+dealt with suppliers and renegotiated contracts.
+coded the general ledger and processed vendor invoice payments.
+rectified escalated accounts payable issues from employees and vendors.
+calculate rates paid for purchases and all price extensions.
+education
+strengths
+financial accountant
+efg company ltd.
+london
+analysed revenues, commissions, and expenses to ensure they are recorded appropriately on a monthly basis.
+assisted with corporate tax reporting requirements.
+conducted reviews and evaluations for cost-reduction opportunities.
+prepared financial statements and supporting schedules according to annual close schedule.
+performed general accounts analysis and reconciliations, including bank statements, fixed assets, employer's benefit costs, accruals and prepaid expenses.
+bsc hons financial economics university of st andrews
+09/2002 07/2006 scotland
+2.1 upper second undergraduate degree
+# organisation
+#time management
+# ms excel
+# public speaking
+# team leadership
+# attention to detail
+# sql
+# data analytics
+# ms visual basic
+# ibm congos # sap

@@ -1,32 +1,32 @@
 ﻿
-FIRST NAME LAST NAME
-Address Zip City Phone email AUTOMOTIVE ENGINEER
-Dynamic, adaptable, and solutions-driven Automotive Engineering Graduate from University Name who is ready to apply his academic foundation in a professional setting. Detailed experience in CAD modeling coupled with hands-on experience in automotive repair and engineering drawings. Offering robust analytical, research, and organizational skills coupled with a strong technical and methodical aptitude. Effective communicator who quickly builds trust and confidence when exchanging vital information across numerous department platforms. Aggressive in identifying and resolving, inefficient operational processes and excel in fast-paced environments.
-Automotive Mechanics
-CAD Modeling
-Engineering Design
-CORE SKILLS
-Manufacturing Processes Product Development
-Fabricationand Calculation
-Equipment Analysis
-Technical Writing
-Interpersonal Communication
-Software Skills: NX Unigraphics MATLAB CarSim Maple Microsoft Office Suite
-Degree Name
-University Name - City
-EDUCATION
-Date
-Relevant Coursework: Engineering Design Statics and Solid Mechanics Electric Circuits Fluid Mechanics Automotive Engineering Computer-Aided Design Manufacturing and Production Processes Control Systems Mechanical Vibrations Powertrain Design Fluid Power Systems Mechatronics Combustion and Engines Vehicle Dynamics and Control Automotive Structural Design Stress Analysis Chassis Systems Design Project Name: Acted as the lead in a 5-person team for the design of an amphibious autonomous robot that can function on land and water. Performed the CAD modeling of parts, calculations, technical writing, and designed the chassis, suspension, and drive train. Led weekly meetings, liaised with advisors, and ensured project goals and deadlines were met. Received award for the best Capstone Project of this year.
-Chassis Systems Design: Led a 4-person team in designing a steering system for a passenger vehicle. Performed research and feasibility analysis, designed parts and prototype with NX, constructed prototype, and developed a maintenance manual and presentation.
-Powertrain Design: Designed a powertrain system for a small pickup truck as part of a 5-person group. Accountable for compiling and editing engineering report, technical calculations, performance evaluation, and selection of engine and transmission parameters.
-Air Standard Engine: Designed the parameters for a 4-stroke gasoline engine.
-Vehicle Dynamics and Control: Simulated effects using CarSim of front and rear suspension characteristics on handling characteristics at 100 km/h and steering wheel rate of 30 deg/s.
-Automotive Structural Design: Performed SSS-based structural analysis to determine the material that would maximize stiffness and minimize vehicle weight. Developed and presented the findings.
-Tire Handling Machine: Designed an autonomous robot as part of 8-person team capable of picking up and placing different size tires from conveyer belts. Performed the CAD modeling, Finite Element analysis, and full motion simulation using NX. Created engineering documents and wrote the final engineering report. WORK EXPERIENCE
-Title Company Name - City
-Accountable for sales targets, store maintenance, and opening and closing duties
-Date
-Provided expert customer service, ensuring all questions were resolved in a professional and timely manner Key Achievements:
-✔Achieved the President's Club distinction for being the top producing sales representative for the quarter ✔Always finished first in monthly sales for the sales representatives at the store
-Title Company Name-City
-Date
+first name last name
+address zip city phone email automotive engineer
+dynamic, adaptable, and solutions-driven automotive engineering graduate from university name who is ready to apply his academic foundation in a professional setting. detailed experience in cad modeling coupled with hands-on experience in automotive repair and engineering drawings. offering robust analytical, research, and organizational skills coupled with a strong technical and methodical aptitude. effective communicator who quickly builds trust and confidence when exchanging vital information across numerous department platforms. aggressive in identifying and resolving, inefficient operational processes and excel in fast-paced environments.
+automotive mechanics
+cad modeling
+engineering design
+core skills
+manufacturing processes product development
+fabricationand calculation
+equipment analysis
+technical writing
+interpersonal communication
+software skills: nx unigraphics matlab carsim maple microsoft office suite
+degree name
+university name - city
+education
+date
+relevant coursework: engineering design statics and solid mechanics electric circuits fluid mechanics automotive engineering computer-aided design manufacturing and production processes control systems mechanical vibrations powertrain design fluid power systems mechatronics combustion and engines vehicle dynamics and control automotive structural design stress analysis chassis systems design project name: acted as the lead in a 5-person team for the design of an amphibious autonomous robot that can function on land and water. performed the cad modeling of parts, calculations, technical writing, and designed the chassis, suspension, and drive train. led weekly meetings, liaised with advisors, and ensured project goals and deadlines were met. received award for the best capstone project of this year.
+chassis systems design: led a 4-person team in designing a steering system for a passenger vehicle. performed research and feasibility analysis, designed parts and prototype with nx, constructed prototype, and developed a maintenance manual and presentation.
+powertrain design: designed a powertrain system for a small pickup truck as part of a 5-person group. accountable for compiling and editing engineering report, technical calculations, performance evaluation, and selection of engine and transmission parameters.
+air standard engine: designed the parameters for a 4-stroke gasoline engine.
+vehicle dynamics and control: simulated effects using carsim of front and rear suspension characteristics on handling characteristics at 100 km/h and steering wheel rate of 30 deg/s.
+automotive structural design: performed sss-based structural analysis to determine the material that would maximize stiffness and minimize vehicle weight. developed and presented the findings.
+tire handling machine: designed an autonomous robot as part of 8-person team capable of picking up and placing different size tires from conveyer belts. performed the cad modeling, finite element analysis, and full motion simulation using nx. created engineering documents and wrote the final engineering report. work experience
+title company name - city
+accountable for sales targets, store maintenance, and opening and closing duties
+date
+provided expert customer service, ensuring all questions were resolved in a professional and timely manner key achievements:
+✔achieved the president's club distinction for being the top producing sales representative for the quarter ✔always finished first in monthly sales for the sales representatives at the store
+title company name-city
+date
