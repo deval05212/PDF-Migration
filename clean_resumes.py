@@ -87,11 +87,9 @@ def clean_text(text: str, lowercase: bool = False) -> str:
     text = re.sub(r"([A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,})\1", r"\1", text)
     text = re.sub(r"\[([^\]]+)\]\(([^)]+)\)", r"\1", text)
 
-    # 9. Normalize Whitespace (Remove All Blank Lines)
-    # Collapse multiple spaces on a line
-    text = re.sub(r"[ \t]+", " ", text)
-    # Remove all blank lines and strip each line
-    text = "\n".join(line.strip() for line in text.splitlines() if line.strip())
+    # 9. Flatten into a Single Line
+    text = text.replace("\n", " ").replace("\r", " ")
+    text = re.sub(r"\s+", " ", text)
     
     # 10. Final Cleanup
     # Remove single alphanumeric characters (like grades A, B, C, D, 8) at the end of lines or between spaces
